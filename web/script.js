@@ -62,20 +62,27 @@ async function loadMonkeyData() {
         // Show loading state
         document.body.classList.add('loading');
         
+        // Determine base path - always use /monkey_data/ when served from root
+        const basePath = '/monkey_data/';
+        
         // Load DNA
-        const dnaResponse = await fetch('../monkey_data/dna.json');
+        const dnaResponse = await fetch(basePath + 'dna.json');
+        if (!dnaResponse.ok) throw new Error('DNA file not found');
         const dna = await dnaResponse.json();
         
         // Load stats
-        const statsResponse = await fetch('../monkey_data/stats.json');
+        const statsResponse = await fetch(basePath + 'stats.json');
+        if (!statsResponse.ok) throw new Error('Stats file not found');
         const stats = await statsResponse.json();
         
         // Load history
-        const historyResponse = await fetch('../monkey_data/history.json');
+        const historyResponse = await fetch(basePath + 'history.json');
+        if (!historyResponse.ok) throw new Error('History file not found');
         const history = await historyResponse.json();
         
         // Load SVG
-        const svgResponse = await fetch('../monkey_data/monkey.svg');
+        const svgResponse = await fetch(basePath + 'monkey.svg');
+        if (!svgResponse.ok) throw new Error('SVG file not found');
         const svgText = await svgResponse.text();
         
         // Update UI

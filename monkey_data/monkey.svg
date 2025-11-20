@@ -44,25 +44,20 @@
     </linearGradient>
 </defs>
 
-<rect width="400" height="400" fill="#FF6347"/>
-<circle cx="200" cy="200" r="120" fill="#B87333" stroke="#000" stroke-width="3"/>
-<circle cx="110" cy="170" r="40" fill="#B87333" stroke="#000" stroke-width="2"/>
-<circle cx="290" cy="170" r="40" fill="#B87333" stroke="#000" stroke-width="2"/>
+<rect width="400" height="400" fill="#696969"/>
+<circle cx="200" cy="200" r="120" fill="#D2B48C" stroke="#000" stroke-width="3"/>
+<circle cx="110" cy="170" r="40" fill="#D2B48C" stroke="#000" stroke-width="2"/>
+<circle cx="290" cy="170" r="40" fill="#D2B48C" stroke="#000" stroke-width="2"/>
 <circle cx="110" cy="170" r="25" fill="#FFB6C1"/>
 <circle cx="290" cy="170" r="25" fill="#FFB6C1"/>
 <ellipse cx="200" cy="220" rx="80" ry="70" fill="#F5DEB3"/>
-<text x="284.0" y="200.0" font-size="20" fill="gold" text-anchor="middle">★</text>
-<text x="242.0" y="272.74613391789285" font-size="20" fill="gold" text-anchor="middle">★</text>
-<text x="158.0" y="272.74613391789285" font-size="20" fill="gold" text-anchor="middle">★</text>
-<text x="116.0" y="200.0" font-size="20" fill="gold" text-anchor="middle">★</text>
-<text x="157.99999999999997" y="127.25386608210718" font-size="20" fill="gold" text-anchor="middle">★</text>
-<text x="242.0" y="127.25386608210715" font-size="20" fill="gold" text-anchor="middle">★</text>
-<circle cx="160" cy="190" r="15" fill="#000"/>
-<circle cx="240" cy="190" r="15" fill="#000"/>
-<circle cx="157" cy="187" r="5" fill="#FFF"/>
-<circle cx="237" cy="187" r="5" fill="#FFF"/>
+<ellipse cx="160" cy="190" rx="15" ry="20" fill="#000"/>
+<line x1="225" y1="190" x2="255" y2="190" stroke="#000" stroke-width="3"/>
 <ellipse cx="200" cy="220" rx="12" ry="8" fill="#8B4513"/>
-<path d="M 180 245 Q 200 250 220 245" stroke="#000" stroke-width="2" fill="none"/>
-
-
+<line x1="180" y1="245" x2="220" y2="245" stroke="#000" stroke-width="2"/>
+<rect x="150" y="50" width="100" height="20" fill="#8B0000" stroke="#000" stroke-width="2"/>
+<text x="100" y="100" font-size="30" fill="gold">✨</text>
+<text x="300" y="100" font-size="30" fill="gold">✨</text>
+<text x="100" y="300" font-size="30" fill="gold">✨</text>
+<text x="300" y="300" font-size="30" fill="gold">✨</text>
 </svg>

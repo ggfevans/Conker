@@ -20,9 +20,11 @@ class MyHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
         super().end_headers()
 
 def main():
-    # Change to web directory
-    web_dir = Path(__file__).parent
-    os.chdir(web_dir)
+    # Change to project root directory (parent of web/)
+    project_root = Path(__file__).parent.parent
+    os.chdir(project_root)
+    
+    print(f"Serving from: {project_root}")
     
     Handler = MyHTTPRequestHandler
     
@@ -37,8 +39,8 @@ Server running at: http://localhost:{PORT}
 Press Ctrl+C to stop the server
         """)
         
-        # Open browser
-        webbrowser.open(f'http://localhost:{PORT}')
+        # Open browser to web/index.html
+        webbrowser.open(f'http://localhost:{PORT}/web/index.html')
         
         try:
             httpd.serve_forever()

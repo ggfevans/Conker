@@ -80,6 +80,17 @@ Go to Actions tab → Enable workflows
 ### 4. Watch Your Monkey Grow!
 Every day at midnight UTC, your monkey evolves automatically.
 
+### 5. View Your Monkey (Web Interface)
+```bash
+# Start the beautiful web interface
+./start_web.sh
+
+# Or manually:
+python web/serve.py
+```
+
+Then open http://localhost:8000/web/index.html in your browser!
+
 ## Your Monkey
 
 <!-- MONKEY_DISPLAY_START -->

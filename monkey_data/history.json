@@ -31,6 +31,38 @@
         "special": "particles"
       },
       "story": "Your monkey evolved randomly!"
+    },
+    {
+      "timestamp": "2025-11-20T17:38:47.784943",
+      "dna_hash": "7c223d5350aba1b9",
+      "generation": 1,
+      "mutation_count": 0,
+      "rarity_score": 26.666666666666668,
+      "traits": {
+        "body_color": "gray",
+        "face_expression": "curious",
+        "accessory": "bandana",
+        "pattern": "quantum",
+        "background": "blue_sky",
+        "special": "shadow"
+      },
+      "story": "\ud83c\udf89 Your monkey was born!"
+    },
+    {
+      "timestamp": "2025-11-20T17:39:02.092330",
+      "dna_hash": "533b79af49812bee",
+      "generation": 1,
+      "mutation_count": 0,
+      "rarity_score": 20.0,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "winking",
+        "accessory": "simple_hat",
+        "pattern": "solid",
+        "background": "city",
+        "special": "sparkles"
+      },
+      "story": "\ud83c\udf89 Your monkey was born!"
     }
   ]
 }
