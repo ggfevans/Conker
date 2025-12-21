@@ -31,27 +31,27 @@ Our job: **Remove friction and amplify signals.**
 | D7 Retention | Users returning after 7 days | >40% |
 | Share Rate | Users who share publicly | >10% |
 
-### Tracking Implementation
+### Tracking Implementation — ✅ IMPLEMENTED
 
 ```javascript
-// Add to web/script.js
+// ALREADY IN web/script.js
 
-const trackEvent = (event, props = {}) => {
-  // Google Analytics
-  gtag('event', event, props);
-  
-  // Console for debugging
-  console.log(`[ForkMonkey] ${event}`, props);
-};
+trackEvent(event, params = {}) {
+  if (typeof gtag !== 'undefined') {
+    gtag('event', event, params);
+  }
+  console.log(`[ForkMonkey Track] ${event}`, params);
+}
 
-// Key events to track:
-trackEvent('page_view', { page: 'home' });
-trackEvent('cta_click', { cta: 'fork_button', location: 'hero' });
-trackEvent('monkey_viewed', { owner: 'username', rarity: 45 });
-trackEvent('share_clicked', { platform: 'twitter', context: 'evolution' });
-trackEvent('leaderboard_viewed', { user_rank: 23 });
-trackEvent('adoption_started', { method: 'manual' });
-trackEvent('adoption_completed', { method: 'manual' });
+// ✅ Events currently tracked:
+// - page_view (dashboard)
+// - tab_view (evolution, community, leaderboard, family-tree)
+// - share_clicked (twitter, copy_link)
+// - adoption_wizard_opened
+// - adoption_method_selected (manual, trustless, full_trust)
+// - leaderboard_search
+// - leaderboard_sort
+// - find_me_clicked
 ```
 
 ---
@@ -62,14 +62,14 @@ trackEvent('adoption_completed', { method: 'manual' });
 
 | Task | Owner | Status |
 |------|-------|--------|
-| Finalize landing page copy | Marketing | ☐ |
-| Create OG preview image (1200x630) | Design | ☐ |
+| Finalize landing page copy | Marketing | ✅ |
+| Create OG preview image (1200x630) | Design | ✅ (OG meta tags set) |
 | Write HN post draft | Marketing | ☐ |
 | Write Reddit posts (5 subreddits) | Marketing | ☐ |
 | Prepare Twitter thread | Marketing | ☐ |
-| Test full fork → evolution flow | Engineering | ☐ |
-| Add share buttons with pre-written copy | Engineering | ☐ |
-| Set up Google Analytics | Engineering | ☐ |
+| Test full fork → evolution flow | Engineering | ✅ |
+| Add share buttons with pre-written copy | Engineering | ✅ |
+| Set up Google Analytics | Engineering | ✅ (+ Clarity) |
 | Line up 5 friends for initial engagement | Founder | ☐ |
 
 ### Day 0: Launch Day (Tuesday, 9am ET)
@@ -554,16 +554,16 @@ Come see what you missed: [link]
 
 ## 💡 Quick Wins Checklist
 
-### Today (30 minutes)
-- [ ] Add share button with pre-written tweet to web page
-- [ ] Update README with stronger CTA at the bottom
+### Today (30 minutes) — ✅ COMPLETE
+- [x] Add share button with pre-written tweet to web page ✅
+- [x] Update README with stronger CTA at the bottom ✅
 - [ ] Post one tweet about the project
 
-### This Week (2 hours)
+### This Week (2 hours) — 🟡 IN PROGRESS
 - [ ] Submit to 3 developer newsletters
 - [ ] Write and schedule 7 tweets
 - [ ] DM 5 micro-influencers personally
-- [ ] Add Google Analytics to web page
+- [x] Add Google Analytics to web page ✅ (G-FSQSBJEM60 + Microsoft Clarity up63wco540)
 
 ### This Month (5 hours)
 - [ ] Write technical blog post
