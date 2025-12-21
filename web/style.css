@@ -598,28 +598,37 @@ body {
 }
 
 @keyframes streak-glow {
-    0%, 100% {
+
+    0%,
+    100% {
         box-shadow: 0 0 5px rgba(255, 107, 53, 0.3), 0 0 10px rgba(255, 165, 0, 0.2);
     }
+
     50% {
         box-shadow: 0 0 15px rgba(255, 107, 53, 0.5), 0 0 25px rgba(255, 165, 0, 0.3);
     }
 }
 
 @keyframes fire-bounce {
-    0%, 100% {
+
+    0%,
+    100% {
         transform: translateY(0) scale(1);
     }
+
     50% {
         transform: translateY(-3px) scale(1.1);
     }
 }
 
 @keyframes fire-pulse {
-    0%, 100% {
+
+    0%,
+    100% {
         opacity: 0.5;
         transform: rotate(0deg);
     }
+
     50% {
         opacity: 1;
         transform: rotate(180deg);
@@ -1319,9 +1328,12 @@ body {
 }
 
 @keyframes pulse-row {
-    0%, 100% {
+
+    0%,
+    100% {
         background: linear-gradient(90deg, rgba(0, 255, 136, 0.15) 0%, rgba(0, 255, 136, 0.05) 100%);
     }
+
     50% {
         background: linear-gradient(90deg, rgba(0, 255, 136, 0.4) 0%, rgba(0, 255, 136, 0.2) 100%);
     }
@@ -1333,15 +1345,15 @@ body {
         flex-direction: column;
         align-items: stretch;
     }
-    
+
     .leaderboard-search input {
         width: 100%;
     }
-    
+
     .leaderboard-sort {
         justify-content: space-between;
     }
-    
+
     .find-me-btn {
         width: 100%;
     }
@@ -1617,6 +1629,133 @@ body {
     position: absolute;
     background: var(--border-light);
     transform-origin: top left;
+}
+
+/* ========================================
+   HIERARCHICAL TREE LAYOUT
+   ======================================== */
+
+.tree-hierarchy {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0;
+    padding: var(--space-xl);
+    width: 100%;
+}
+
+.tree-level {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: var(--space-md);
+    width: 100%;
+}
+
+.level-label {
+    font-family: var(--font-display);
+    font-size: var(--text-xs);
+    color: var(--text-muted);
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    gap: var(--space-sm);
+}
+
+.level-count {
+    font-family: var(--font-mono);
+    color: var(--primary);
+    font-size: var(--text-sm);
+}
+
+.level-nodes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: var(--space-md);
+}
+
+.tree-connector {
+    width: 2px;
+    height: 30px;
+    background: linear-gradient(to bottom, var(--border-light), var(--primary));
+}
+
+.tree-node-more {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: var(--space-sm) var(--space-md);
+    background: var(--bg-card);
+    border: 1px dashed var(--border-light);
+    border-radius: var(--radius-md);
+    color: var(--text-muted);
+    font-size: var(--text-sm);
+}
+
+/* Degree-specific colors */
+.tree-node-circle.degree-1 {
+    border-color: #00ff88;
+}
+
+.tree-node-circle.degree-2 {
+    border-color: #00ccff;
+}
+
+.tree-node-circle.degree-3 {
+    border-color: #cc88ff;
+}
+
+/* Legend degree dots */
+.dot.degree-1 {
+    background: #00ff88;
+}
+
+.dot.degree-2 {
+    background: #00ccff;
+}
+
+.dot.degree-3 {
+    background: #cc88ff;
+}
+
+/* Level-specific styling */
+.tree-level.level-root .level-label {
+    color: var(--gold);
+}
+
+.tree-level.level-1 .level-label {
+    color: #00ff88;
+}
+
+.tree-level.level-2 .level-label {
+    color: #00ccff;
+}
+
+.tree-level.level-3 .level-label {
+    color: #cc88ff;
+}
+
+/* Responsive for mobile */
+@media (max-width: 768px) {
+    .tree-hierarchy {
+        padding: var(--space-md);
+    }
+
+    .tree-node-circle {
+        width: 45px;
+        height: 45px;
+    }
+
+    .level-nodes {
+        gap: var(--space-sm);
+    }
+
+    .tree-legend {
+        flex-wrap: wrap;
+        gap: var(--space-sm);
+    }
 }
 
 /* ========================================
@@ -2481,9 +2620,12 @@ body {
 }
 
 @keyframes cta-pulse {
-    0%, 100% {
+
+    0%,
+    100% {
         box-shadow: 0 4px 20px var(--primary-glow);
     }
+
     50% {
         box-shadow: 0 4px 30px var(--primary-glow), 0 0 50px var(--primary-glow);
     }
@@ -2557,9 +2699,12 @@ body {
 }
 
 @keyframes float-bounce {
-    0%, 100% {
+
+    0%,
+    100% {
         transform: translateY(0);
     }
+
     50% {
         transform: translateY(-5px);
     }
@@ -2588,9 +2733,12 @@ body {
 }
 
 @keyframes fade-text {
-    0%, 100% {
+
+    0%,
+    100% {
         opacity: 0.7;
     }
+
     50% {
         opacity: 1;
     }
