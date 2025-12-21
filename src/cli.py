@@ -386,8 +386,7 @@ def share(copy, evolution, achievement):
         Rarity.COMMON: 1,
         Rarity.UNCOMMON: 2,
         Rarity.RARE: 3,
-        Rarity.EPIC: 4,
-        Rarity.LEGENDARY: 5
+        Rarity.LEGENDARY: 4
     }
     
     for cat, trait in dna.traits.items():
@@ -488,16 +487,13 @@ def leaderboard():
     console.print(table)
     
     # Rarity tier
-    if rarity >= 90:
+    if rarity >= 80:
         tier = "🦄 LEGENDARY"
         tier_color = "magenta"
-    elif rarity >= 70:
-        tier = "💜 EPIC"
-        tier_color = "purple"
     elif rarity >= 50:
         tier = "💙 RARE"
         tier_color = "blue"
-    elif rarity >= 30:
+    elif rarity >= 25:
         tier = "💚 UNCOMMON"
         tier_color = "green"
     else:
