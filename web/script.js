@@ -1237,7 +1237,7 @@ Age: ${ageDays} days
 
 It evolves daily with AI and lives forever on GitHub.
 
-Fork yours free: https://github.com/roeiba/forkMonkey
+Try it free: https://roeiba.github.io/forkMonkey/
 
 #ForkMonkey #AI #GitHub #OpenSource`;
 
@@ -1271,7 +1271,7 @@ Fork yours free: https://github.com/roeiba/forkMonkey
 Today's evolution: ${evolutionData.change || 'Mystery mutation'}
 Rarity: ${evolutionData.rarity || '?'}/100
 
-Fork yours free: https://github.com/roeiba/forkMonkey
+Try it free: https://roeiba.github.io/forkMonkey/
 
 #AI #GitHub #OpenSource`;
 
@@ -1290,7 +1290,7 @@ Fork yours free: https://github.com/roeiba/forkMonkey
 Rarity: ${(stats.rarity_score || 0).toFixed(1)}/100
 
 Think you can beat me?
-https://github.com/roeiba/forkMonkey
+https://roeiba.github.io/forkMonkey/
 
 #ForkMonkey`;
 
