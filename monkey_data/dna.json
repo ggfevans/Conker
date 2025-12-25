@@ -1,40 +1,40 @@
 {
-  "generation": 1,
-  "parent_id": null,
-  "dna_hash": "afd84513c75c7f4a",
+  "generation": 2,
+  "parent_id": "fbb13284c977d75b",
+  "dna_hash": "d5bee8d128540796",
   "mutation_count": 0,
-  "birth_timestamp": 367765,
+  "birth_timestamp": 300514,
   "traits": {
     "body_color": {
-      "value": "silver",
-      "rarity": "uncommon",
-      "gene_sequence": "2066cd78"
+      "value": "prismatic",
+      "rarity": "legendary",
+      "gene_sequence": "6b63824b"
     },
     "face_expression": {
-      "value": "legendary",
-      "rarity": "legendary",
-      "gene_sequence": "fa2b44cd"
+      "value": "curious",
+      "rarity": "common",
+      "gene_sequence": "7d0bf056"
     },
     "accessory": {
-      "value": "bandana",
+      "value": "bow",
       "rarity": "common",
-      "gene_sequence": "eef7e9dc"
+      "gene_sequence": "22acdd9b"
     },
     "pattern": {
-      "value": "fractals",
+      "value": "flames",
       "rarity": "rare",
-      "gene_sequence": "0021f769"
+      "gene_sequence": "039bcf26"
     },
     "background": {
-      "value": "blue_sky",
-      "rarity": "common",
-      "gene_sequence": "1893587b"
+      "value": "volcano",
+      "rarity": "rare",
+      "gene_sequence": "a35dd45b"
     },
     "special": {
-      "value": "energy",
-      "rarity": "rare",
-      "gene_sequence": "adb72200"
+      "value": "transcendent",
+      "rarity": "legendary",
+      "gene_sequence": "954084d7"
     }
   },
-  "rarity_score": 40.0
+  "rarity_score": 53.333333333333336
 }
