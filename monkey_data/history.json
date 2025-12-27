@@ -628,6 +628,23 @@
       },
       "story": "Your monkey evolved! Changes: body_color: golden \u2192 silver",
       "svg_filename": "2025-12-26_00-16_monkey.svg"
+    },
+    {
+      "timestamp": "2025-12-27T00:16:09.959991",
+      "dna_hash": "e52993c697b8be1b",
+      "generation": 1,
+      "mutation_count": 5,
+      "rarity_score": 25.0,
+      "traits": {
+        "body_color": "silver",
+        "face_expression": "curious",
+        "accessory": "bandana",
+        "pattern": "gradient",
+        "background": "space",
+        "special": "energy"
+      },
+      "story": "Your monkey evolved! Changes: pattern: solid \u2192 gradient, special: particles \u2192 energy",
+      "svg_filename": "2025-12-27_00-16_monkey.svg"
     }
   ]
 }
