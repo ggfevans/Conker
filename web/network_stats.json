@@ -1,12 +1,12 @@
 {
-  "last_updated": "2025-12-28T00:16:55.306846+00:00",
+  "last_updated": "2025-12-29T00:16:48.049314+00:00",
   "total_monkeys": 34,
-  "active_today": 13,
+  "active_today": 14,
   "generations": {
     "1": 15,
     "2": 19
   },
-  "avg_rarity": 22.89,
+  "avg_rarity": 23.09,
   "max_rarity": 53.33,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -21,7 +21,7 @@
   },
   "trait_distribution": {
     "body_color": {
-      "silver": 4,
+      "purple": 2,
       "tan": 7,
       "prismatic": 2,
       "bronze": 3,
@@ -29,26 +29,26 @@
       "copper": 1,
       "green": 1,
       "beige": 3,
+      "silver": 3,
       "gray": 1,
-      "purple": 1,
       "golden": 2,
       "brown": 3,
       "blue": 2,
       "holographic": 3
     },
     "face_expression": {
-      "curious": 4,
-      "mischievous": 3,
+      "curious": 5,
+      "mischievous": 4,
       "legendary": 2,
       "excited": 2,
       "cosmic": 1,
       "neutral": 4,
       "sleepy": 4,
-      "happy": 6,
+      "happy": 5,
       "cool": 1,
       "enlightened": 1,
-      "wise": 2,
       "surprised": 2,
+      "wise": 1,
       "winking": 2
     },
     "accessory": {
@@ -65,13 +65,13 @@
       "monocle": 1
     },
     "pattern": {
-      "gradient": 5,
+      "swirls": 4,
       "stars": 5,
       "flames": 1,
       "diamonds": 5,
+      "gradient": 4,
       "stripes": 3,
       "spots": 6,
-      "swirls": 3,
       "solid": 5,
       "fractals": 1
     },
@@ -80,12 +80,12 @@
       "white": 5,
       "volcano": 3,
       "sunset": 8,
-      "beach": 4,
+      "beach": 3,
       "forest": 1,
       "green_grass": 2,
       "blue_sky": 3,
       "mountains": 1,
-      "city": 3,
+      "city": 4,
       "underwater": 1,
       "aurora": 1
     },
