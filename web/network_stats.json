@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-01-01T00:17:00.907273+00:00",
+  "last_updated": "2026-01-02T00:15:19.687153+00:00",
   "total_monkeys": 34,
   "active_today": 14,
   "generations": {
-    "1": 14,
-    "2": 20
+    "1": 15,
+    "2": 19
   },
-  "avg_rarity": 21.91,
+  "avg_rarity": 22.89,
   "max_rarity": 53.33,
   "min_rarity": 10.0,
   "rarest_trait": {
-    "trait": "face_expression",
-    "value": "zen",
+    "trait": "background",
+    "value": "aurora",
     "count": 1
   },
   "most_common_trait": {
     "trait": "special",
     "value": "none",
-    "count": 24
+    "count": 23
   },
   "trait_distribution": {
     "body_color": {
@@ -29,46 +29,46 @@
       "green": 1,
       "beige": 3,
       "silver": 3,
-      "gray": 1,
+      "gray": 2,
       "purple": 1,
-      "golden": 2,
       "brown": 1,
       "blue": 2,
-      "holographic": 3
+      "holographic": 3,
+      "golden": 1
     },
     "face_expression": {
       "sleepy": 7,
       "mischievous": 3,
-      "curious": 4,
-      "legendary": 1,
+      "curious": 3,
+      "legendary": 2,
       "excited": 2,
       "cosmic": 1,
       "neutral": 4,
       "happy": 4,
       "cool": 1,
       "enlightened": 1,
-      "wise": 2,
-      "surprised": 2,
+      "surprised": 3,
+      "wise": 1,
       "winking": 1,
       "zen": 1
     },
     "accessory": {
-      "bandana": 6,
+      "bow": 4,
+      "simple_hat": 7,
       "crown": 1,
-      "simple_hat": 6,
       "jetpack": 1,
       "sunglasses": 2,
       "wings": 1,
       "none": 7,
+      "bandana": 4,
       "laser_eyes": 2,
-      "bow": 4,
-      "headphones": 3,
+      "headphones": 4,
       "monocle": 1
     },
     "pattern": {
       "fractals": 2,
-      "spots": 7,
-      "stars": 5,
+      "spots": 6,
+      "stars": 6,
       "lightning": 1,
       "diamonds": 3,
       "gradient": 5,
@@ -85,14 +85,15 @@
       "forest": 1,
       "green_grass": 2,
       "mountains": 1,
-      "city": 4,
+      "city": 3,
       "volcano": 2,
-      "underwater": 1
+      "underwater": 1,
+      "aurora": 1
     },
     "special": {
-      "none": 24,
+      "none": 23,
       "transcendent": 1,
-      "energy": 2,
+      "energy": 3,
       "glow": 1,
       "sparkles": 1,
       "shadow": 4,
