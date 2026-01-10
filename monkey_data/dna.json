@@ -1,8 +1,8 @@
 {
   "generation": 2,
   "parent_id": "fbb13284c977d75b",
-  "dna_hash": "c1c00f3311828ccf",
-  "mutation_count": 9,
+  "dna_hash": "0a7c46126fc22ea4",
+  "mutation_count": 10,
   "birth_timestamp": 300514,
   "traits": {
     "body_color": {
@@ -26,9 +26,9 @@
       "gene_sequence": "1c1ee672"
     },
     "background": {
-      "value": "underwater",
+      "value": "space",
       "rarity": "rare",
-      "gene_sequence": "cf097d16"
+      "gene_sequence": "cf6b0483"
     },
     "special": {
       "value": "transcendent",
