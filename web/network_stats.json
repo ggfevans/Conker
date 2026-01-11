@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-01-10T00:15:00.948315+00:00",
+  "last_updated": "2026-01-11T00:16:40.655581+00:00",
   "total_monkeys": 34,
   "active_today": 13,
   "generations": {
     "1": 14,
     "2": 20
   },
-  "avg_rarity": 24.02,
+  "avg_rarity": 24.22,
   "max_rarity": 61.67,
   "min_rarity": 10.0,
   "rarest_trait": {
-    "trait": "background",
-    "value": "city",
+    "trait": "body_color",
+    "value": "rainbow",
     "count": 1
   },
   "most_common_trait": {
@@ -21,9 +21,10 @@
   },
   "trait_distribution": {
     "body_color": {
-      "galaxy": 2,
+      "galaxy": 1,
       "genesis_gold": 2,
-      "tan": 8,
+      "tan": 7,
+      "gray": 2,
       "crystal": 1,
       "bronze": 2,
       "prismatic": 1,
@@ -31,23 +32,23 @@
       "green": 1,
       "beige": 2,
       "silver": 3,
-      "gray": 1,
       "purple": 1,
       "brown": 3,
       "blue": 2,
       "holographic": 2,
-      "golden": 2
+      "golden": 2,
+      "rainbow": 1
     },
     "face_expression": {
       "sleepy": 6,
       "cool": 2,
       "happy": 4,
-      "curious": 3,
+      "curious": 2,
       "legendary": 1,
       "excited": 4,
       "cosmic": 1,
       "neutral": 5,
-      "mischievous": 2,
+      "mischievous": 3,
       "enlightened": 1,
       "surprised": 3,
       "wise": 1,
@@ -67,33 +68,32 @@
       "wizard_hat": 1
     },
     "pattern": {
-      "solid": 6,
-      "gradient": 6,
+      "solid": 7,
+      "gradient": 5,
       "diamonds": 4,
       "aurora": 1,
       "stripes": 3,
       "spots": 4,
       "swirls": 3,
       "stars": 4,
-      "fractals": 2,
-      "nebula": 1
+      "nebula": 2,
+      "fractals": 1
     },
     "background": {
       "volcano": 3,
-      "space": 2,
+      "space": 3,
       "sunset": 9,
       "green_grass": 3,
-      "underwater": 2,
-      "beach": 3,
+      "beach": 4,
       "forest": 2,
       "white": 4,
       "blue_sky": 4,
       "mountains": 1,
-      "city": 1
+      "underwater": 1
     },
     "special": {
-      "energy": 3,
-      "shadow": 5,
+      "energy": 4,
+      "shadow": 4,
       "none": 19,
       "transcendent": 1,
       "glow": 2,
