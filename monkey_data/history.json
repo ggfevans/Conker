@@ -1002,6 +1002,23 @@
       },
       "story": "Your monkey rested today. No visible changes.",
       "svg_filename": "2026-01-20_00-21_monkey.svg"
+    },
+    {
+      "timestamp": "2026-01-21T00:22:53.480352",
+      "dna_hash": "342fdbb93534d80b",
+      "generation": 2,
+      "mutation_count": 13,
+      "rarity_score": 53.333333333333336,
+      "traits": {
+        "body_color": "crystal",
+        "face_expression": "happy",
+        "accessory": "simple_hat",
+        "pattern": "aurora",
+        "background": "aurora",
+        "special": "energy"
+      },
+      "story": "Your monkey rested today. No visible changes.",
+      "svg_filename": "2026-01-21_00-22_monkey.svg"
     }
   ]
 }
