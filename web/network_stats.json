@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-01-22T00:16:14.124948+00:00",
+  "last_updated": "2026-01-23T00:16:21.769377+00:00",
   "total_monkeys": 33,
   "active_today": 13,
   "generations": {
     "1": 13,
     "2": 20
   },
-  "avg_rarity": 23.59,
+  "avg_rarity": 23.48,
   "max_rarity": 53.33,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -21,8 +21,8 @@
   },
   "trait_distribution": {
     "body_color": {
-      "tan": 5,
-      "gray": 3,
+      "tan": 6,
+      "gray": 2,
       "genesis_gold": 2,
       "beige": 4,
       "crystal": 2,
@@ -32,25 +32,25 @@
       "green": 1,
       "silver": 3,
       "purple": 2,
-      "brown": 3,
-      "holographic": 2,
-      "golden": 1
+      "golden": 2,
+      "brown": 2,
+      "holographic": 2
     },
     "face_expression": {
-      "cool": 3,
-      "happy": 5,
+      "cool": 4,
+      "happy": 4,
       "sleepy": 4,
+      "neutral": 6,
       "legendary": 1,
       "excited": 4,
       "cosmic": 1,
-      "neutral": 5,
       "curious": 1,
       "mischievous": 1,
       "laughing": 1,
       "enlightened": 1,
-      "winking": 3,
       "surprised": 2,
-      "wise": 1
+      "wise": 1,
+      "winking": 2
     },
     "accessory": {
       "headphones": 5,
@@ -67,12 +67,12 @@
     },
     "pattern": {
       "gradient": 6,
-      "solid": 5,
+      "solid": 4,
       "swirls": 4,
       "aurora": 1,
       "diamonds": 4,
       "stripes": 3,
-      "spots": 4,
+      "spots": 5,
       "stars": 4,
       "cosmic_dust": 1,
       "nebula": 1
