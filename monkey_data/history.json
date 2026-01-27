@@ -1104,6 +1104,23 @@
       },
       "story": "Your monkey evolved! Changes: special: energy \u2192 sparkles",
       "svg_filename": "2026-01-26_00-23_monkey.svg"
+    },
+    {
+      "timestamp": "2026-01-27T00:23:43.155665",
+      "dna_hash": "884ebb790be39b4f",
+      "generation": 2,
+      "mutation_count": 17,
+      "rarity_score": 48.333333333333336,
+      "traits": {
+        "body_color": "crystal",
+        "face_expression": "neutral",
+        "accessory": "simple_hat",
+        "pattern": "void",
+        "background": "volcano",
+        "special": "sparkles"
+      },
+      "story": "Your monkey evolved! Changes: pattern: aurora \u2192 void",
+      "svg_filename": "2026-01-27_00-23_monkey.svg"
     }
   ]
 }
