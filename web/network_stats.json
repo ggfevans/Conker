@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-01-31T00:17:44.146874+00:00",
+  "last_updated": "2026-02-01T00:20:52.335092+00:00",
   "total_monkeys": 33,
-  "active_today": 13,
+  "active_today": 12,
   "generations": {
     "1": 13,
     "2": 20
@@ -21,8 +21,8 @@
   },
   "trait_distribution": {
     "body_color": {
-      "gray": 3,
-      "tan": 6,
+      "gray": 4,
+      "tan": 5,
       "genesis_gold": 2,
       "beige": 2,
       "silver": 4,
@@ -67,15 +67,15 @@
       "wizard_hat": 1
     },
     "pattern": {
-      "spots": 5,
-      "stripes": 4,
+      "spots": 4,
+      "stripes": 5,
       "gradient": 5,
       "solid": 4,
       "hearts": 2,
       "void": 1,
-      "diamonds": 3,
+      "diamonds": 4,
       "swirls": 3,
-      "stars": 4,
+      "stars": 3,
       "cosmic_dust": 1,
       "nebula": 1
     },
