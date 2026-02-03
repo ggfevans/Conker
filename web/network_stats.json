@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-02T00:18:43.846638+00:00",
+  "last_updated": "2026-02-03T00:20:11.623628+00:00",
   "total_monkeys": 33,
   "active_today": 13,
   "generations": {
@@ -10,8 +10,8 @@
   "max_rarity": 48.33,
   "min_rarity": 10.0,
   "rarest_trait": {
-    "trait": "special",
-    "value": "particles",
+    "trait": "pattern",
+    "value": "fractals",
     "count": 1
   },
   "most_common_trait": {
@@ -21,17 +21,17 @@
   },
   "trait_distribution": {
     "body_color": {
-      "gray": 4,
-      "beige": 3,
+      "gray": 5,
       "genesis_gold": 2,
+      "beige": 2,
       "silver": 3,
       "crystal": 2,
-      "bronze": 3,
+      "bronze": 4,
       "prismatic": 1,
       "copper": 1,
       "green": 1,
       "tan": 4,
-      "purple": 2,
+      "purple": 1,
       "golden": 2,
       "brown": 2,
       "holographic": 2,
@@ -41,7 +41,7 @@
       "curious": 3,
       "neutral": 7,
       "cool": 1,
-      "wise": 3,
+      "wise": 2,
       "legendary": 1,
       "excited": 4,
       "cosmic": 1,
@@ -50,7 +50,7 @@
       "happy": 2,
       "winking": 4,
       "enlightened": 1,
-      "surprised": 2
+      "surprised": 3
     },
     "accessory": {
       "bandana": 4,
@@ -71,23 +71,23 @@
       "stripes": 5,
       "gradient": 5,
       "solid": 4,
-      "hearts": 2,
+      "hearts": 3,
       "void": 1,
-      "diamonds": 4,
+      "diamonds": 3,
       "swirls": 3,
       "stars": 3,
       "cosmic_dust": 1,
-      "nebula": 1
+      "fractals": 1
     },
     "background": {
       "blue_sky": 5,
       "white": 6,
       "space": 2,
       "volcano": 3,
-      "sunset": 7,
+      "sunset": 6,
       "beach": 3,
       "forest": 2,
-      "green_grass": 4,
+      "green_grass": 5,
       "underwater": 1
     },
     "special": {
@@ -97,8 +97,7 @@
       "glow": 2,
       "energy": 2,
       "sparkles": 3,
-      "aura": 1,
-      "particles": 1
+      "aura": 2
     }
   }
 }
