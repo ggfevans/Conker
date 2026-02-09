@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-02-08T00:24:15.757836+00:00",
+  "last_updated": "2026-02-09T00:20:12.313866+00:00",
   "total_monkeys": 33,
-  "active_today": 12,
+  "active_today": 13,
   "generations": {
     "1": 13,
     "2": 20
   },
-  "avg_rarity": 24.8,
+  "avg_rarity": 24.55,
   "max_rarity": 48.33,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -17,20 +17,20 @@
   "most_common_trait": {
     "trait": "special",
     "value": "none",
-    "count": 19
+    "count": 20
   },
   "trait_distribution": {
     "body_color": {
-      "tan": 6,
       "gray": 4,
       "genesis_gold": 2,
-      "beige": 2,
+      "beige": 3,
       "silver": 3,
       "crystal": 2,
       "bronze": 4,
       "prismatic": 1,
       "copper": 1,
       "green": 1,
+      "tan": 5,
       "purple": 1,
       "golden": 2,
       "brown": 1,
@@ -38,15 +38,15 @@
       "pink": 1
     },
     "face_expression": {
-      "curious": 3,
-      "neutral": 7,
+      "excited": 4,
+      "neutral": 6,
       "cool": 3,
+      "happy": 3,
       "legendary": 1,
-      "excited": 3,
       "cosmic": 1,
+      "curious": 2,
       "sleepy": 3,
       "mischievous": 1,
-      "happy": 2,
       "laughing": 1,
       "enlightened": 1,
       "surprised": 4,
@@ -54,9 +54,8 @@
       "winking": 2
     },
     "accessory": {
-      "bandana": 3,
+      "bandana": 4,
       "none": 9,
-      "bow": 2,
       "simple_hat": 5,
       "jetpack": 1,
       "sunglasses": 2,
@@ -66,12 +65,13 @@
       "monocle": 1,
       "crown": 2,
       "wizard_hat": 1,
+      "bow": 1,
       "golden_crown": 1
     },
     "pattern": {
-      "spots": 4,
+      "spots": 5,
       "stripes": 5,
-      "gradient": 7,
+      "gradient": 6,
       "stars": 4,
       "void": 1,
       "diamonds": 3,
@@ -93,12 +93,11 @@
       "underwater": 1
     },
     "special": {
-      "transcendent": 1,
-      "none": 19,
+      "energy": 3,
+      "none": 20,
       "shadow": 4,
       "glow": 2,
-      "energy": 2,
-      "sparkles": 3,
+      "sparkles": 2,
       "aura": 1,
       "particles": 1
     }
