@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-02-09T00:20:12.313866+00:00",
+  "last_updated": "2026-02-10T00:24:00.283619+00:00",
   "total_monkeys": 33,
-  "active_today": 13,
+  "active_today": 12,
   "generations": {
     "1": 13,
     "2": 20
   },
-  "avg_rarity": 24.55,
+  "avg_rarity": 24.75,
   "max_rarity": 48.33,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -38,15 +38,15 @@
       "pink": 1
     },
     "face_expression": {
-      "excited": 4,
-      "neutral": 6,
+      "mischievous": 2,
+      "happy": 4,
       "cool": 3,
-      "happy": 3,
+      "neutral": 5,
       "legendary": 1,
+      "excited": 3,
       "cosmic": 1,
       "curious": 2,
       "sleepy": 3,
-      "mischievous": 1,
       "laughing": 1,
       "enlightened": 1,
       "surprised": 4,
@@ -54,42 +54,41 @@
       "winking": 2
     },
     "accessory": {
-      "bandana": 4,
-      "none": 9,
-      "simple_hat": 5,
-      "jetpack": 1,
+      "none": 10,
+      "bandana": 5,
+      "simple_hat": 4,
+      "jetpack": 2,
       "sunglasses": 2,
       "wings": 1,
       "laser_eyes": 2,
-      "headphones": 3,
+      "headphones": 2,
       "monocle": 1,
       "crown": 2,
-      "wizard_hat": 1,
       "bow": 1,
       "golden_crown": 1
     },
     "pattern": {
       "spots": 5,
-      "stripes": 5,
+      "solid": 3,
       "gradient": 6,
       "stars": 4,
       "void": 1,
       "diamonds": 3,
+      "stripes": 4,
       "swirls": 3,
-      "solid": 2,
       "cosmic_dust": 1,
       "hearts": 2,
       "nebula": 1
     },
     "background": {
-      "green_grass": 5,
+      "green_grass": 7,
       "sunset": 8,
       "space": 2,
-      "blue_sky": 5,
-      "white": 3,
       "volcano": 3,
       "beach": 5,
       "forest": 1,
+      "white": 2,
+      "blue_sky": 4,
       "underwater": 1
     },
     "special": {
