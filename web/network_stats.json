@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-12T00:18:40.494518+00:00",
+  "last_updated": "2026-02-13T00:21:15.977061+00:00",
   "total_monkeys": 33,
-  "active_today": 13,
+  "active_today": 12,
   "generations": {
     "1": 13,
     "2": 20
@@ -21,8 +21,8 @@
   },
   "trait_distribution": {
     "body_color": {
-      "gray": 3,
-      "tan": 6,
+      "gray": 2,
+      "tan": 7,
       "genesis_gold": 2,
       "beige": 3,
       "silver": 3,
@@ -38,15 +38,15 @@
       "pink": 1
     },
     "face_expression": {
-      "mischievous": 3,
+      "excited": 3,
       "happy": 3,
       "cool": 3,
       "neutral": 6,
       "sleepy": 3,
       "legendary": 1,
-      "excited": 2,
       "cosmic": 1,
       "curious": 2,
+      "mischievous": 2,
       "laughing": 1,
       "enlightened": 1,
       "zen": 1,
@@ -69,22 +69,22 @@
       "golden_crown": 1
     },
     "pattern": {
-      "swirls": 4,
+      "diamonds": 4,
       "solid": 3,
       "gradient": 6,
       "lightning": 1,
       "void": 1,
-      "diamonds": 3,
       "stripes": 4,
       "spots": 4,
+      "swirls": 3,
       "stars": 3,
       "fractals": 1,
       "hearts": 2,
       "nebula": 1
     },
     "background": {
-      "green_grass": 7,
-      "sunset": 8,
+      "green_grass": 6,
+      "sunset": 9,
       "space": 2,
       "underwater": 2,
       "beach": 4,
