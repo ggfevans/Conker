@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-02-14T00:19:59.351623+00:00",
+  "last_updated": "2026-02-15T00:19:43.972663+00:00",
   "total_monkeys": 33,
-  "active_today": 13,
+  "active_today": 14,
   "generations": {
     "1": 13,
     "2": 20
   },
-  "avg_rarity": 24.75,
-  "max_rarity": 48.33,
+  "avg_rarity": 24.55,
+  "max_rarity": 46.67,
   "min_rarity": 10.0,
   "rarest_trait": {
     "trait": "accessory",
@@ -17,7 +17,7 @@
   "most_common_trait": {
     "trait": "special",
     "value": "none",
-    "count": 19
+    "count": 20
   },
   "trait_distribution": {
     "body_color": {
@@ -29,11 +29,11 @@
       "crystal": 2,
       "bronze": 3,
       "prismatic": 1,
-      "copper": 2,
+      "copper": 1,
       "green": 1,
       "purple": 1,
       "golden": 2,
-      "brown": 1,
+      "brown": 2,
       "holographic": 2,
       "pink": 1
     },
@@ -42,10 +42,10 @@
       "happy": 3,
       "cool": 3,
       "neutral": 6,
-      "sleepy": 3,
+      "curious": 3,
       "legendary": 1,
       "cosmic": 1,
-      "curious": 2,
+      "sleepy": 2,
       "mischievous": 2,
       "laughing": 1,
       "enlightened": 1,
@@ -55,29 +55,28 @@
       "winking": 1
     },
     "accessory": {
-      "none": 9,
-      "bandana": 6,
+      "bow": 2,
+      "none": 8,
+      "bandana": 5,
       "simple_hat": 4,
       "jetpack": 2,
       "sunglasses": 2,
       "wings": 1,
       "laser_eyes": 2,
       "headphones": 3,
-      "monocle": 1,
+      "monocle": 2,
       "crown": 1,
-      "bow": 1,
       "golden_crown": 1
     },
     "pattern": {
       "diamonds": 4,
-      "solid": 3,
+      "spots": 5,
       "gradient": 6,
-      "lightning": 1,
+      "swirls": 4,
       "void": 1,
       "stripes": 4,
-      "spots": 4,
-      "swirls": 3,
       "stars": 3,
+      "solid": 2,
       "fractals": 1,
       "hearts": 2,
       "nebula": 1
@@ -95,9 +94,9 @@
     },
     "special": {
       "energy": 3,
-      "none": 19,
+      "none": 20,
       "shadow": 4,
-      "glow": 2,
+      "glow": 1,
       "sparkles": 3,
       "aura": 1,
       "particles": 1
