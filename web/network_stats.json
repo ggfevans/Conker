@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-02-17T00:20:31.793032+00:00",
+  "last_updated": "2026-02-18T00:20:09.708824+00:00",
   "total_monkeys": 33,
-  "active_today": 13,
+  "active_today": 12,
   "generations": {
     "1": 14,
     "2": 19
   },
-  "avg_rarity": 24.55,
+  "avg_rarity": 24.6,
   "max_rarity": 46.67,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -69,13 +69,13 @@
       "golden_crown": 1
     },
     "pattern": {
-      "spots": 5,
+      "spots": 4,
       "diamonds": 4,
       "gradient": 6,
       "stripes": 5,
       "swirls": 4,
-      "void": 1,
-      "stars": 3,
+      "cosmic_dust": 1,
+      "stars": 4,
       "solid": 2,
       "fractals": 1,
       "hearts": 2
@@ -97,8 +97,8 @@
       "godlike": 1,
       "shadow": 4,
       "energy": 2,
-      "glow": 1,
-      "sparkles": 3,
+      "glow": 2,
+      "sparkles": 2,
       "aura": 1
     }
   }
