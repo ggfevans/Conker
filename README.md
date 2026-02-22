@@ -85,7 +85,7 @@ Your monkey is born! Check the README or visit `https://YOUR-USERNAME.github.io/
 <!-- MONKEY_STATS_START -->
 | Generation | Age | Mutations | Rarity Score |
 |:----------:|:---:|:---------:|:------------:|
-| 2 | 91 days | 29 | 46.7/100 |
+| 2 | 92 days | 30 | 46.7/100 |
 <!-- MONKEY_STATS_END -->
 
 ---
@@ -246,7 +246,7 @@ Your child inherits traits from this monkey + gets random mutations.
 <!-- LINEAGE_STATS_END -->
 
 <!-- BREEDING_BOOST_START -->
-🔥 **Breeding boost active!** Fork now for enhanced trait inheritance.
+⚡ **First 5 forks get +15% legendary trait inheritance!**
 <!-- BREEDING_BOOST_END -->
 
 **Will you breed the next Legendary?** 🦄
