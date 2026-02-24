@@ -1,14 +1,14 @@
 {
   "generation": 2,
   "parent_id": "fbb13284c977d75b",
-  "dna_hash": "c8e414d24b866bf1",
-  "mutation_count": 31,
+  "dna_hash": "daeffb22d63c0a4a",
+  "mutation_count": 33,
   "birth_timestamp": 300514,
   "traits": {
     "body_color": {
-      "value": "crystal",
+      "value": "rainbow",
       "rarity": "legendary",
-      "gene_sequence": "5713892a"
+      "gene_sequence": "c112b52e"
     },
     "face_expression": {
       "value": "curious",
@@ -16,9 +16,9 @@
       "gene_sequence": "7d0bf056"
     },
     "accessory": {
-      "value": "simple_hat",
+      "value": "bandana",
       "rarity": "common",
-      "gene_sequence": "ed716f46"
+      "gene_sequence": "eef7e9dc"
     },
     "pattern": {
       "value": "void",
