@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-02-24T00:19:50.305954+00:00",
+  "last_updated": "2026-02-25T00:21:06.697896+00:00",
   "total_monkeys": 33,
   "active_today": 12,
   "generations": {
     "1": 14,
     "2": 19
   },
-  "avg_rarity": 24.95,
+  "avg_rarity": 25.35,
   "max_rarity": 46.67,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -21,11 +21,12 @@
   },
   "trait_distribution": {
     "body_color": {
-      "crystal": 3,
+      "crystal": 2,
       "gray": 2,
       "tan": 8,
       "genesis_gold": 2,
       "silver": 3,
+      "rainbow": 1,
       "bronze": 3,
       "prismatic": 1,
       "copper": 1,
@@ -55,10 +56,10 @@
       "winking": 1
     },
     "accessory": {
-      "bandana": 7,
+      "bandana": 8,
       "bow": 2,
       "none": 7,
-      "simple_hat": 4,
+      "simple_hat": 3,
       "jetpack": 2,
       "sunglasses": 1,
       "wings": 1,
@@ -77,14 +78,15 @@
       "void": 1,
       "stripes": 4,
       "stars": 4,
-      "fractals": 2,
-      "hearts": 1
+      "cosmic_dust": 1,
+      "hearts": 1,
+      "fractals": 1
     },
     "background": {
       "white": 6,
       "space": 2,
-      "beach": 6,
-      "volcano": 3,
+      "beach": 5,
+      "volcano": 4,
       "sunset": 7,
       "forest": 1,
       "green_grass": 4,
