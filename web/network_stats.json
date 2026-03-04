@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-03-03T00:19:42.335039+00:00",
+  "last_updated": "2026-03-04T00:18:53.431006+00:00",
   "total_monkeys": 33,
   "active_today": 12,
   "generations": {
     "1": 14,
     "2": 19
   },
-  "avg_rarity": 25.25,
+  "avg_rarity": 25.3,
   "max_rarity": 48.33,
   "min_rarity": 10.0,
   "rarest_trait": {
-    "trait": "face_expression",
-    "value": "winking",
+    "trait": "body_color",
+    "value": "blue",
     "count": 1
   },
   "most_common_trait": {
@@ -21,11 +21,12 @@
   },
   "trait_distribution": {
     "body_color": {
-      "rainbow": 2,
+      "crystal": 2,
       "gray": 2,
       "brown": 4,
       "genesis_gold": 2,
       "golden": 3,
+      "rainbow": 1,
       "bronze": 3,
       "prismatic": 1,
       "copper": 1,
@@ -34,14 +35,13 @@
       "silver": 2,
       "tan": 6,
       "purple": 1,
-      "crystal": 1,
       "holographic": 2,
       "blue": 1
     },
     "face_expression": {
-      "cool": 3,
-      "excited": 3,
-      "sleepy": 4,
+      "excited": 5,
+      "sleepy": 3,
+      "cool": 2,
       "curious": 3,
       "neutral": 5,
       "mischievous": 3,
@@ -50,10 +50,9 @@
       "happy": 2,
       "laughing": 2,
       "enlightened": 1,
-      "zen": 1,
+      "winking": 2,
       "surprised": 2,
-      "wise": 1,
-      "winking": 1
+      "wise": 1
     },
     "accessory": {
       "bandana": 7,
@@ -73,10 +72,11 @@
       "diamonds": 4,
       "gradient": 7,
       "swirls": 5,
-      "void": 2,
+      "aurora": 1,
       "stripes": 3,
       "stars": 2,
       "solid": 2,
+      "void": 1,
       "hearts": 3
     },
     "background": {
