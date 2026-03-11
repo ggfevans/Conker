@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-03-10T00:16:10.575254+00:00",
+  "last_updated": "2026-03-11T00:16:39.573060+00:00",
   "total_monkeys": 33,
   "active_today": 12,
   "generations": {
     "1": 14,
     "2": 19
   },
-  "avg_rarity": 25.05,
+  "avg_rarity": 24.95,
   "max_rarity": 50.0,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -39,29 +39,29 @@
       "holographic": 2
     },
     "face_expression": {
-      "winking": 3,
-      "excited": 5,
-      "sleepy": 4,
-      "cool": 2,
-      "neutral": 6,
-      "mischievous": 3,
+      "winking": 2,
+      "excited": 4,
+      "sleepy": 3,
+      "cool": 1,
+      "neutral": 7,
+      "mischievous": 4,
       "legendary": 1,
       "cosmic": 1,
-      "curious": 1,
+      "curious": 2,
       "happy": 2,
       "laughing": 1,
       "enlightened": 1,
-      "surprised": 2,
+      "surprised": 3,
       "wise": 1
     },
     "accessory": {
-      "bandana": 6,
-      "bow": 3,
+      "bandana": 5,
+      "bow": 4,
       "none": 6,
       "simple_hat": 4,
-      "crown": 3,
+      "crown": 1,
       "jetpack": 1,
-      "sunglasses": 1,
+      "sunglasses": 3,
       "wings": 2,
       "laser_eyes": 2,
       "headphones": 2,
@@ -69,36 +69,36 @@
       "golden_crown": 1
     },
     "pattern": {
-      "stripes": 4,
+      "spots": 6,
       "diamonds": 6,
-      "spots": 5,
       "gradient": 6,
       "aurora": 1,
+      "stripes": 4,
       "swirls": 3,
       "stars": 2,
       "solid": 2,
       "void": 1,
-      "hearts": 3
+      "hearts": 2
     },
     "background": {
-      "white": 5,
+      "green_grass": 3,
+      "white": 4,
       "mountains": 2,
-      "space": 2,
+      "space": 3,
       "city": 2,
       "volcano": 3,
-      "underwater": 2,
       "sunset": 7,
       "beach": 3,
       "forest": 2,
-      "green_grass": 2,
-      "blue_sky": 3
+      "blue_sky": 3,
+      "underwater": 1
     },
     "special": {
       "none": 19,
       "godlike": 1,
-      "shadow": 5,
+      "shadow": 4,
       "energy": 2,
-      "glow": 3,
+      "glow": 4,
       "sparkles": 2,
       "aura": 1
     }
