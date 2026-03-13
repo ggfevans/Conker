@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-03-12T00:16:27.291114+00:00",
+  "last_updated": "2026-03-13T00:18:59.642927+00:00",
   "total_monkeys": 33,
-  "active_today": 12,
+  "active_today": 11,
   "generations": {
     "1": 14,
     "2": 19
   },
-  "avg_rarity": 24.95,
+  "avg_rarity": 24.85,
   "max_rarity": 50.0,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -22,8 +22,8 @@
   "trait_distribution": {
     "body_color": {
       "crystal": 1,
-      "gray": 2,
-      "tan": 8,
+      "gray": 3,
+      "tan": 7,
       "genesis_gold": 2,
       "golden": 4,
       "rainbow": 1,
@@ -31,20 +31,20 @@
       "prismatic": 1,
       "copper": 1,
       "green": 1,
-      "beige": 2,
+      "beige": 3,
       "silver": 2,
       "purple": 1,
-      "brown": 2,
+      "brown": 1,
       "blue": 1,
       "holographic": 2
     },
     "face_expression": {
       "winking": 2,
       "excited": 4,
-      "sleepy": 3,
+      "sleepy": 4,
       "cool": 1,
       "neutral": 7,
-      "mischievous": 4,
+      "mischievous": 3,
       "legendary": 1,
       "cosmic": 1,
       "curious": 2,
@@ -56,10 +56,10 @@
     },
     "accessory": {
       "bandana": 4,
-      "bow": 4,
+      "bow": 5,
       "none": 6,
-      "simple_hat": 5,
       "crown": 1,
+      "simple_hat": 4,
       "jetpack": 1,
       "sunglasses": 3,
       "wings": 2,
@@ -69,7 +69,7 @@
       "golden_crown": 1
     },
     "pattern": {
-      "spots": 6,
+      "spots": 7,
       "diamonds": 6,
       "gradient": 6,
       "aurora": 1,
@@ -78,7 +78,7 @@
       "stars": 2,
       "solid": 2,
       "void": 1,
-      "hearts": 2
+      "hearts": 1
     },
     "background": {
       "green_grass": 3,
