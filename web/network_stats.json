@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-13T00:18:59.642927+00:00",
+  "last_updated": "2026-03-14T00:18:31.570664+00:00",
   "total_monkeys": 33,
-  "active_today": 11,
+  "active_today": 12,
   "generations": {
     "1": 14,
     "2": 19
@@ -17,7 +17,7 @@
   "most_common_trait": {
     "trait": "special",
     "value": "none",
-    "count": 19
+    "count": 20
   },
   "trait_distribution": {
     "body_color": {
@@ -55,17 +55,17 @@
       "wise": 1
     },
     "accessory": {
-      "bandana": 4,
+      "crown": 1,
       "bow": 5,
       "none": 6,
-      "crown": 1,
+      "headphones": 3,
       "simple_hat": 4,
       "jetpack": 1,
-      "sunglasses": 3,
+      "sunglasses": 4,
       "wings": 2,
+      "bandana": 3,
       "laser_eyes": 2,
-      "headphones": 2,
-      "monocle": 2,
+      "monocle": 1,
       "golden_crown": 1
     },
     "pattern": {
@@ -83,20 +83,20 @@
     "background": {
       "green_grass": 3,
       "white": 4,
-      "mountains": 2,
-      "space": 3,
+      "mountains": 1,
+      "space": 2,
       "city": 2,
-      "volcano": 3,
+      "volcano": 4,
       "sunset": 7,
       "beach": 3,
-      "forest": 2,
+      "forest": 3,
       "blue_sky": 3,
       "underwater": 1
     },
     "special": {
-      "none": 19,
+      "none": 20,
       "godlike": 1,
-      "shadow": 4,
+      "shadow": 3,
       "energy": 2,
       "glow": 4,
       "sparkles": 2,
