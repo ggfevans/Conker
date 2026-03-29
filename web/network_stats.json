@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-28T00:20:09.956237+00:00",
+  "last_updated": "2026-03-29T00:22:48.096965+00:00",
   "total_monkeys": 33,
-  "active_today": 12,
+  "active_today": 11,
   "generations": {
     "1": 13,
     "2": 20
@@ -21,8 +21,8 @@
   },
   "trait_distribution": {
     "body_color": {
-      "tan": 11,
-      "gray": 2,
+      "gray": 3,
+      "tan": 10,
       "genesis_gold": 2,
       "blue": 2,
       "bronze": 2,
@@ -37,18 +37,18 @@
       "golden": 1
     },
     "face_expression": {
-      "curious": 3,
+      "curious": 4,
       "happy": 6,
       "excited": 3,
-      "sleepy": 4,
-      "cool": 1,
+      "sleepy": 3,
+      "cool": 2,
       "neutral": 7,
       "legendary": 1,
       "cosmic": 1,
       "mischievous": 1,
       "laughing": 1,
       "enlightened": 1,
-      "surprised": 3,
+      "surprised": 2,
       "wise": 1
     },
     "accessory": {
@@ -91,11 +91,11 @@
     "special": {
       "none": 19,
       "godlike": 1,
-      "shadow": 6,
+      "shadow": 5,
       "energy": 2,
-      "glow": 2,
-      "sparkles": 2,
-      "aura": 1
+      "glow": 3,
+      "sparkles": 1,
+      "aura": 2
     }
   }
 }
