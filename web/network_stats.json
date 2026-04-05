@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-04-04T00:20:50.550703+00:00",
+  "last_updated": "2026-04-05T00:23:19.032556+00:00",
   "total_monkeys": 33,
-  "active_today": 12,
+  "active_today": 11,
   "generations": {
     "1": 13,
     "2": 20
   },
-  "avg_rarity": 24.6,
+  "avg_rarity": 24.55,
   "max_rarity": 45.0,
   "min_rarity": 10.0,
   "rarest_trait": {
     "trait": "accessory",
-    "value": "golden_crown",
+    "value": "horns",
     "count": 1
   },
   "most_common_trait": {
@@ -21,15 +21,15 @@
   },
   "trait_distribution": {
     "body_color": {
-      "copper": 4,
-      "tan": 7,
+      "copper": 3,
+      "tan": 6,
       "gray": 2,
-      "blue": 2,
+      "beige": 4,
+      "blue": 3,
       "bronze": 2,
       "prismatic": 1,
       "genesis_gold": 1,
       "green": 1,
-      "beige": 3,
       "silver": 1,
       "purple": 2,
       "brown": 4,
@@ -64,18 +64,18 @@
       "monocle": 2,
       "headphones": 3,
       "wizard_hat": 1,
-      "golden_crown": 1
+      "horns": 1
     },
     "pattern": {
       "lightning": 2,
-      "solid": 4,
+      "solid": 3,
       "flames": 2,
       "diamonds": 5,
+      "swirls": 4,
       "spots": 5,
       "aurora": 1,
       "gradient": 4,
       "stripes": 4,
-      "swirls": 3,
       "stars": 2,
       "void": 1
     },
@@ -93,8 +93,8 @@
       "dimension_rift": 1
     },
     "special": {
-      "shadow": 4,
-      "glow": 5,
+      "shadow": 5,
+      "glow": 4,
       "none": 17,
       "godlike": 1,
       "energy": 2,
