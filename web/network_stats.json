@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-07T00:23:28.151696+00:00",
+  "last_updated": "2026-04-08T00:23:51.386141+00:00",
   "total_monkeys": 33,
   "active_today": 12,
   "generations": {
     "1": 13,
     "2": 20
   },
-  "avg_rarity": 24.49,
+  "avg_rarity": 24.34,
   "max_rarity": 45.0,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -69,14 +69,14 @@
     "pattern": {
       "lightning": 1,
       "solid": 3,
-      "flames": 2,
+      "flames": 1,
       "diamonds": 5,
       "swirls": 5,
-      "spots": 5,
+      "spots": 4,
       "aurora": 1,
-      "gradient": 4,
+      "gradient": 5,
       "stripes": 3,
-      "stars": 2,
+      "stars": 3,
       "void": 1,
       "hearts": 1
     },
@@ -85,9 +85,9 @@
       "green_grass": 4,
       "white": 4,
       "underwater": 1,
-      "mountains": 2,
+      "mountains": 3,
       "space": 2,
-      "beach": 4,
+      "beach": 3,
       "forest": 3,
       "blue_sky": 3,
       "volcano": 2,
