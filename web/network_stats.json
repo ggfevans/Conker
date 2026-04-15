@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T00:28:00.666081+00:00",
+  "last_updated": "2026-04-15T00:28:22.703024+00:00",
   "total_monkeys": 33,
   "active_today": 12,
   "generations": {
@@ -38,14 +38,14 @@
       "blue": 1
     },
     "face_expression": {
-      "excited": 5,
-      "happy": 8,
-      "sleepy": 4,
+      "excited": 4,
+      "happy": 9,
+      "sleepy": 3,
+      "curious": 2,
       "legendary": 1,
       "cosmic": 1,
       "neutral": 5,
-      "curious": 2,
-      "mischievous": 1,
+      "mischievous": 2,
       "laughing": 1,
       "enlightened": 1,
       "surprised": 2,
