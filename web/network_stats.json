@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T00:28:48.538233+00:00",
+  "last_updated": "2026-04-17T00:26:56.110385+00:00",
   "total_monkeys": 33,
   "active_today": 12,
   "generations": {
@@ -75,8 +75,8 @@
       "gradient": 5,
       "swirls": 4,
       "cosmic_dust": 1,
-      "stripes": 3,
-      "spots": 4,
+      "stripes": 4,
+      "spots": 3,
       "void": 1,
       "hearts": 1
     },
