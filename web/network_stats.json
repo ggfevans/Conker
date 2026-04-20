@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T00:25:41.640800+00:00",
+  "last_updated": "2026-04-20T00:26:06.238447+00:00",
   "total_monkeys": 33,
   "active_today": 12,
   "generations": {
@@ -39,9 +39,9 @@
     },
     "face_expression": {
       "excited": 4,
-      "happy": 8,
+      "happy": 7,
       "sleepy": 3,
-      "curious": 3,
+      "curious": 4,
       "legendary": 1,
       "cosmic": 1,
       "neutral": 5,
@@ -54,15 +54,15 @@
     "accessory": {
       "jetpack": 2,
       "halo": 1,
-      "sunglasses": 4,
+      "sunglasses": 5,
       "bow": 3,
       "simple_hat": 3,
       "bandana": 4,
       "wings": 1,
       "none": 5,
       "laser_eyes": 2,
-      "monocle": 2,
       "headphones": 3,
+      "monocle": 1,
       "crown": 1,
       "wizard_hat": 1,
       "horns": 1
