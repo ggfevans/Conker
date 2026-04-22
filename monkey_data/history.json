@@ -2549,6 +2549,23 @@
       },
       "story": "Your monkey evolved! Changes: face_expression: happy \u2192 cool, accessory: bandana \u2192 none",
       "svg_filename": "2026-04-21_00-35_monkey.svg"
+    },
+    {
+      "timestamp": "2026-04-22T00:33:04.986162",
+      "dna_hash": "12a9564624d40a95",
+      "generation": 2,
+      "mutation_count": 60,
+      "rarity_score": 36.666666666666664,
+      "traits": {
+        "body_color": "copper",
+        "face_expression": "cool",
+        "accessory": "none",
+        "pattern": "aurora",
+        "background": "space",
+        "special": "shadow"
+      },
+      "story": "Your monkey rested today. No visible changes.",
+      "svg_filename": "2026-04-22_00-33_monkey.svg"
     }
   ]
 }
