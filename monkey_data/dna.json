@@ -1,14 +1,14 @@
 {
   "generation": 2,
   "parent_id": "fbb13284c977d75b",
-  "dna_hash": "12a9564624d40a95",
-  "mutation_count": 60,
+  "dna_hash": "7020f1b60bbf217b",
+  "mutation_count": 62,
   "birth_timestamp": 300514,
   "traits": {
     "body_color": {
-      "value": "copper",
+      "value": "silver",
       "rarity": "uncommon",
-      "gene_sequence": "0d83b1e8"
+      "gene_sequence": "2066cd78"
     },
     "face_expression": {
       "value": "cool",
@@ -26,9 +26,9 @@
       "gene_sequence": "1c1ee672"
     },
     "background": {
-      "value": "space",
-      "rarity": "rare",
-      "gene_sequence": "cf6b0483"
+      "value": "city",
+      "rarity": "uncommon",
+      "gene_sequence": "2071a1d4"
     },
     "special": {
       "value": "shadow",
@@ -36,5 +36,5 @@
       "gene_sequence": "db06738c"
     }
   },
-  "rarity_score": 36.666666666666664
+  "rarity_score": 31.666666666666664
 }
