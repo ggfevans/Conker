@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T00:32:09.387682+00:00",
+  "last_updated": "2026-05-01T00:34:20.607604+00:00",
   "total_monkeys": 33,
   "active_today": 12,
   "generations": {
@@ -25,24 +25,24 @@
       "copper": 2,
       "tan": 5,
       "gray": 4,
-      "beige": 3,
+      "beige": 4,
       "bronze": 3,
       "silver": 3,
       "prismatic": 1,
       "genesis_gold": 1,
       "green": 1,
-      "brown": 3,
+      "brown": 2,
       "galaxy": 1,
       "holographic": 2,
       "golden": 1,
       "blue": 1
     },
     "face_expression": {
-      "excited": 5,
+      "cool": 3,
       "happy": 6,
+      "excited": 4,
       "sleepy": 3,
       "mischievous": 2,
-      "cool": 2,
       "legendary": 1,
       "cosmic": 1,
       "neutral": 5,
@@ -54,14 +54,14 @@
     "accessory": {
       "jetpack": 2,
       "halo": 2,
-      "sunglasses": 4,
+      "sunglasses": 3,
       "bow": 2,
       "simple_hat": 4,
+      "headphones": 4,
       "bandana": 4,
       "none": 7,
       "wings": 1,
       "laser_eyes": 2,
-      "headphones": 3,
       "monocle": 1,
       "horns": 1
     },
@@ -69,11 +69,11 @@
       "flames": 2,
       "solid": 3,
       "diamonds": 4,
-      "spots": 4,
+      "gradient": 6,
       "stripes": 4,
       "swirls": 4,
       "aurora": 2,
-      "gradient": 4,
+      "spots": 2,
       "stars": 3,
       "hearts": 3
     },
@@ -88,7 +88,7 @@
       "forest": 1,
       "volcano": 2,
       "space": 1,
-      "heaven": 1
+      "multiverse": 1
     },
     "special": {
       "shadow": 5,
