@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-05-01T00:34:20.607604+00:00",
+  "last_updated": "2026-05-02T00:31:09.908940+00:00",
   "total_monkeys": 33,
   "active_today": 12,
   "generations": {
     "1": 13,
     "2": 20
   },
-  "avg_rarity": 24.75,
-  "max_rarity": 45.0,
+  "avg_rarity": 25.15,
+  "max_rarity": 50.0,
   "min_rarity": 10.0,
   "rarest_trait": {
     "trait": "accessory",
-    "value": "horns",
+    "value": "diamond_chain",
     "count": 1
   },
   "most_common_trait": {
@@ -25,13 +25,13 @@
       "copper": 2,
       "tan": 5,
       "gray": 4,
-      "beige": 4,
+      "beige": 5,
       "bronze": 3,
       "silver": 3,
       "prismatic": 1,
       "genesis_gold": 1,
       "green": 1,
-      "brown": 2,
+      "brown": 1,
       "galaxy": 1,
       "holographic": 2,
       "golden": 1,
@@ -58,36 +58,38 @@
       "bow": 2,
       "simple_hat": 4,
       "headphones": 4,
-      "bandana": 4,
+      "monocle": 2,
       "none": 7,
       "wings": 1,
+      "bandana": 3,
       "laser_eyes": 2,
-      "monocle": 1,
-      "horns": 1
+      "diamond_chain": 1
     },
     "pattern": {
-      "flames": 2,
-      "solid": 3,
-      "diamonds": 4,
-      "gradient": 6,
+      "cosmic_dust": 1,
+      "solid": 5,
+      "flames": 1,
+      "diamonds": 5,
+      "gradient": 4,
       "stripes": 4,
       "swirls": 4,
       "aurora": 2,
       "spots": 2,
       "stars": 3,
-      "hearts": 3
+      "hearts": 2
     },
     "background": {
       "white": 7,
       "green_grass": 4,
       "aurora": 2,
       "blue_sky": 3,
-      "city": 3,
+      "city": 2,
       "sunset": 5,
       "beach": 4,
       "forest": 1,
       "volcano": 2,
       "space": 1,
+      "mountains": 1,
       "multiverse": 1
     },
     "special": {
@@ -96,9 +98,8 @@
       "none": 16,
       "godlike": 1,
       "energy": 2,
-      "sparkles": 2,
-      "aura": 2,
-      "particles": 1
+      "sparkles": 3,
+      "aura": 2
     }
   }
 }
