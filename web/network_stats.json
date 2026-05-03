@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T00:31:09.908940+00:00",
+  "last_updated": "2026-05-03T00:32:09.768281+00:00",
   "total_monkeys": 33,
   "active_today": 12,
   "generations": {
@@ -17,7 +17,7 @@
   "most_common_trait": {
     "trait": "special",
     "value": "none",
-    "count": 16
+    "count": 15
   },
   "trait_distribution": {
     "body_color": {
@@ -25,7 +25,8 @@
       "copper": 2,
       "tan": 5,
       "gray": 4,
-      "beige": 5,
+      "golden": 2,
+      "beige": 4,
       "bronze": 3,
       "silver": 3,
       "prismatic": 1,
@@ -34,19 +35,18 @@
       "brown": 1,
       "galaxy": 1,
       "holographic": 2,
-      "golden": 1,
       "blue": 1
     },
     "face_expression": {
       "cool": 3,
-      "happy": 6,
+      "happy": 7,
       "excited": 4,
       "sleepy": 3,
       "mischievous": 2,
       "legendary": 1,
       "cosmic": 1,
       "neutral": 5,
-      "curious": 2,
+      "curious": 1,
       "surprised": 3,
       "enlightened": 1,
       "wise": 2
@@ -68,21 +68,22 @@
     "pattern": {
       "cosmic_dust": 1,
       "solid": 5,
-      "flames": 1,
-      "diamonds": 5,
+      "flames": 2,
+      "diamonds": 4,
       "gradient": 4,
       "stripes": 4,
       "swirls": 4,
-      "aurora": 2,
       "spots": 2,
       "stars": 3,
-      "hearts": 2
+      "aurora": 1,
+      "hearts": 2,
+      "lightning": 1
     },
     "background": {
-      "white": 7,
+      "white": 6,
       "green_grass": 4,
       "aurora": 2,
-      "blue_sky": 3,
+      "blue_sky": 4,
       "city": 2,
       "sunset": 5,
       "beach": 4,
@@ -94,8 +95,8 @@
     },
     "special": {
       "shadow": 5,
-      "glow": 4,
-      "none": 16,
+      "glow": 5,
+      "none": 15,
       "godlike": 1,
       "energy": 2,
       "sparkles": 3,
