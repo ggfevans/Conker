@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-05-04T00:31:38.445514+00:00",
+  "last_updated": "2026-05-05T00:31:33.358251+00:00",
   "total_monkeys": 33,
   "active_today": 12,
   "generations": {
     "1": 13,
     "2": 20
   },
-  "avg_rarity": 25.25,
+  "avg_rarity": 25.3,
   "max_rarity": 50.0,
   "min_rarity": 10.0,
   "rarest_trait": {
-    "trait": "accessory",
-    "value": "diamond_chain",
+    "trait": "background",
+    "value": "multiverse",
     "count": 1
   },
   "most_common_trait": {
     "trait": "special",
     "value": "none",
-    "count": 16
+    "count": 15
   },
   "trait_distribution": {
     "body_color": {
@@ -40,13 +40,13 @@
     "face_expression": {
       "cool": 3,
       "happy": 7,
-      "excited": 4,
+      "excited": 5,
       "sleepy": 3,
-      "mischievous": 2,
       "legendary": 1,
       "cosmic": 1,
       "neutral": 5,
       "curious": 1,
+      "mischievous": 1,
       "surprised": 3,
       "enlightened": 1,
       "wise": 2
@@ -60,10 +60,9 @@
       "headphones": 4,
       "monocle": 2,
       "none": 7,
-      "wings": 1,
+      "wings": 2,
       "bandana": 2,
-      "laser_eyes": 2,
-      "diamond_chain": 1
+      "laser_eyes": 2
     },
     "pattern": {
       "cosmic_dust": 1,
@@ -96,10 +95,10 @@
     "special": {
       "shadow": 5,
       "glow": 3,
-      "none": 16,
+      "none": 15,
       "godlike": 1,
+      "sparkles": 4,
       "energy": 3,
-      "sparkles": 3,
       "aura": 2
     }
   }
