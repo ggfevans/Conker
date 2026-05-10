@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09T00:33:22.124806+00:00",
+  "last_updated": "2026-05-10T00:33:08.592929+00:00",
   "total_monkeys": 33,
   "active_today": 10,
   "generations": {
@@ -27,24 +27,24 @@
       "tan": 5,
       "golden": 2,
       "beige": 3,
-      "bronze": 3,
+      "silver": 2,
       "brown": 2,
+      "bronze": 2,
       "prismatic": 1,
       "genesis_gold": 1,
       "green": 1,
-      "silver": 1,
       "crystal": 1,
       "holographic": 2
     },
     "face_expression": {
-      "curious": 2,
-      "happy": 7,
+      "happy": 8,
       "cool": 3,
       "excited": 5,
       "sleepy": 3,
       "legendary": 1,
       "cosmic": 1,
       "neutral": 5,
+      "curious": 1,
       "mischievous": 1,
       "surprised": 3,
       "enlightened": 1,
@@ -73,11 +73,11 @@
       "stripes": 3,
       "spots": 2,
       "stars": 3,
-      "aurora": 1
+      "quantum": 1
     },
     "background": {
-      "white": 8,
-      "green_grass": 4,
+      "white": 9,
+      "green_grass": 3,
       "aurora": 1,
       "blue_sky": 4,
       "mountains": 1,
@@ -93,9 +93,9 @@
       "shadow": 5,
       "glow": 2,
       "godlike": 1,
-      "energy": 4,
+      "aura": 3,
       "sparkles": 3,
-      "aura": 2
+      "energy": 3
     }
   }
 }
