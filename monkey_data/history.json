@@ -2957,6 +2957,23 @@
       },
       "story": "Your monkey evolved! Changes: face_expression: cool \u2192 mischievous, pattern: nebula \u2192 cosmic_dust, background: city \u2192 mountains, special: none \u2192 glow",
       "svg_filename": "2026-05-15_00-43_monkey.svg"
+    },
+    {
+      "timestamp": "2026-05-16T00:41:01.616212",
+      "dna_hash": "a0913c7c9cea528d",
+      "generation": 2,
+      "mutation_count": 77,
+      "rarity_score": 30.0,
+      "traits": {
+        "body_color": "brown",
+        "face_expression": "mischievous",
+        "accessory": "bow",
+        "pattern": "cosmic_dust",
+        "background": "mountains",
+        "special": "sparkles"
+      },
+      "story": "Your monkey evolved! Changes: special: glow \u2192 sparkles",
+      "svg_filename": "2026-05-16_00-41_monkey.svg"
     }
   ]
 }
