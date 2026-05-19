@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-18T00:36:09.631751+00:00",
+  "last_updated": "2026-05-19T00:38:06.205410+00:00",
   "total_monkeys": 33,
-  "active_today": 11,
+  "active_today": 10,
   "generations": {
     "1": 13,
     "2": 20
@@ -10,8 +10,8 @@
   "max_rarity": 50.0,
   "min_rarity": 10.0,
   "rarest_trait": {
-    "trait": "special",
-    "value": "particles",
+    "trait": "pattern",
+    "value": "hearts",
     "count": 1
   },
   "most_common_trait": {
@@ -33,7 +33,7 @@
       "bronze": 2,
       "genesis_gold": 1,
       "green": 1,
-      "rainbow": 1,
+      "crystal": 1,
       "holographic": 2
     },
     "face_expression": {
@@ -42,7 +42,8 @@
       "happy": 7,
       "cool": 1,
       "excited": 5,
-      "laughing": 2,
+      "laughing": 1,
+      "wise": 1,
       "legendary": 2,
       "cosmic": 1,
       "neutral": 4,
@@ -96,9 +97,9 @@
       "glow": 3,
       "godlike": 1,
       "aura": 2,
-      "sparkles": 4,
+      "sparkles": 3,
       "energy": 2,
-      "particles": 1
+      "particles": 2
     }
   }
 }
