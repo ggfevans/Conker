@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-05-24T00:36:52.891009+00:00",
+  "last_updated": "2026-05-25T00:37:58.437137+00:00",
   "total_monkeys": 33,
   "active_today": 10,
   "generations": {
     "1": 13,
     "2": 20
   },
-  "avg_rarity": 26.41,
+  "avg_rarity": 26.52,
   "max_rarity": 50.0,
   "min_rarity": 10.0,
   "rarest_trait": {
     "trait": "pattern",
-    "value": "lightning",
+    "value": "fractals",
     "count": 1
   },
   "most_common_trait": {
@@ -25,24 +25,24 @@
       "purple": 3,
       "gray": 6,
       "copper": 2,
-      "tan": 4,
+      "tan": 5,
       "golden": 2,
       "beige": 2,
-      "brown": 3,
       "bronze": 3,
       "prismatic": 1,
       "genesis_gold": 1,
       "green": 1,
       "silver": 1,
+      "brown": 2,
       "galaxy": 1,
       "holographic": 2
     },
     "face_expression": {
       "curious": 4,
-      "mischievous": 3,
+      "mischievous": 4,
       "happy": 6,
       "cool": 2,
-      "excited": 5,
+      "excited": 4,
       "laughing": 1,
       "legendary": 1,
       "cosmic": 1,
@@ -68,26 +68,27 @@
       "laser_eyes": 2
     },
     "pattern": {
-      "spots": 4,
+      "spots": 3,
       "solid": 4,
-      "swirls": 4,
-      "diamonds": 8,
+      "swirls": 5,
+      "diamonds": 7,
       "cosmic_dust": 1,
       "flames": 1,
       "quantum": 1,
       "gradient": 2,
       "stripes": 4,
-      "stars": 2,
+      "stars": 3,
       "void": 1,
-      "lightning": 1
+      "fractals": 1
     },
     "background": {
       "sunset": 7,
       "blue_sky": 4,
       "white": 8,
-      "green_grass": 4,
+      "green_grass": 3,
       "beach": 5,
       "city": 1,
+      "mountains": 1,
       "forest": 1,
       "space": 1,
       "volcano": 2
