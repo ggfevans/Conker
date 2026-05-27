@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-26T00:37:22.449916+00:00",
+  "last_updated": "2026-05-27T00:38:13.312844+00:00",
   "total_monkeys": 33,
   "active_today": 10,
   "generations": {
     "1": 13,
     "2": 20
   },
-  "avg_rarity": 26.57,
+  "avg_rarity": 26.72,
   "max_rarity": 50.0,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -21,7 +21,7 @@
   },
   "trait_distribution": {
     "body_color": {
-      "rainbow": 1,
+      "holographic": 3,
       "purple": 3,
       "gray": 5,
       "copper": 2,
@@ -34,8 +34,7 @@
       "green": 1,
       "silver": 1,
       "brown": 3,
-      "galaxy": 1,
-      "holographic": 2
+      "galaxy": 1
     },
     "face_expression": {
       "curious": 4,
@@ -44,11 +43,10 @@
       "cool": 2,
       "excited": 4,
       "laughing": 1,
-      "legendary": 1,
+      "legendary": 2,
       "cosmic": 1,
       "neutral": 4,
       "sleepy": 2,
-      "divine": 1,
       "enlightened": 1,
       "surprised": 2
     },
@@ -56,11 +54,11 @@
       "diamond_chain": 1,
       "jetpack": 4,
       "crown": 1,
-      "monocle": 3,
+      "monocle": 4,
       "halo": 1,
       "sunglasses": 2,
       "bow": 1,
-      "headphones": 5,
+      "headphones": 4,
       "none": 5,
       "simple_hat": 2,
       "wings": 1,
@@ -70,10 +68,11 @@
     "pattern": {
       "spots": 3,
       "solid": 4,
-      "swirls": 5,
+      "swirls": 4,
       "diamonds": 7,
       "cosmic_dust": 2,
       "flames": 1,
+      "nebula": 1,
       "gradient": 2,
       "stripes": 4,
       "stars": 3,
@@ -96,10 +95,10 @@
       "shadow": 6,
       "glow": 3,
       "godlike": 1,
-      "aura": 2,
+      "particles": 3,
       "energy": 2,
       "sparkles": 2,
-      "particles": 2
+      "aura": 1
     }
   }
 }
