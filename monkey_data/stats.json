@@ -1,9 +1,9 @@
 {
-  "dna_hash": "c853dfb7382d934a",
+  "dna_hash": "7544cd4c0b317a2f",
   "generation": 2,
   "age_days": 0,
-  "mutation_count": 92,
-  "rarity_score": 30.0,
+  "mutation_count": 93,
+  "rarity_score": 35.0,
   "parent_id": "fbb13284c977d75b",
   "traits": {
     "body_color": {
@@ -11,8 +11,8 @@
       "rarity": "common"
     },
     "face_expression": {
-      "value": "cool",
-      "rarity": "uncommon"
+      "value": "laughing",
+      "rarity": "rare"
     },
     "accessory": {
       "value": "bandana",
@@ -32,9 +32,9 @@
     }
   },
   "streak": {
-    "current": 155,
-    "best": 155,
-    "last_date": "2026-05-28"
+    "current": 156,
+    "best": 156,
+    "last_date": "2026-05-29"
   },
-  "last_updated": "2026-05-28T00:44:11.744164"
+  "last_updated": "2026-05-29T00:50:45.884711"
 }

@@ -1,8 +1,8 @@
 {
   "generation": 2,
   "parent_id": "fbb13284c977d75b",
-  "dna_hash": "c853dfb7382d934a",
-  "mutation_count": 92,
+  "dna_hash": "7544cd4c0b317a2f",
+  "mutation_count": 93,
   "birth_timestamp": 300514,
   "traits": {
     "body_color": {
@@ -11,9 +11,9 @@
       "gene_sequence": "8fecf206"
     },
     "face_expression": {
-      "value": "cool",
-      "rarity": "uncommon",
-      "gene_sequence": "abb5bfe3"
+      "value": "laughing",
+      "rarity": "rare",
+      "gene_sequence": "dbc6932f"
     },
     "accessory": {
       "value": "bandana",
@@ -36,5 +36,5 @@
       "gene_sequence": "db06738c"
     }
   },
-  "rarity_score": 30.0
+  "rarity_score": 35.0
 }
