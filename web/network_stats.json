@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-28T00:35:18.330060+00:00",
+  "last_updated": "2026-05-29T00:40:49.216515+00:00",
   "total_monkeys": 33,
   "active_today": 10,
   "generations": {
@@ -10,8 +10,8 @@
   "max_rarity": 50.0,
   "min_rarity": 10.0,
   "rarest_trait": {
-    "trait": "pattern",
-    "value": "fractals",
+    "trait": "background",
+    "value": "mountains",
     "count": 1
   },
   "most_common_trait": {
@@ -54,15 +54,15 @@
       "diamond_chain": 1,
       "jetpack": 4,
       "crown": 1,
-      "monocle": 4,
+      "monocle": 3,
       "halo": 1,
-      "sunglasses": 2,
+      "sunglasses": 3,
       "bow": 1,
       "headphones": 4,
-      "none": 5,
+      "bandana": 6,
       "simple_hat": 2,
       "wings": 1,
-      "bandana": 5,
+      "none": 4,
       "laser_eyes": 2
     },
     "pattern": {
@@ -85,10 +85,11 @@
       "green_grass": 4,
       "city": 2,
       "sunset": 4,
-      "beach": 5,
+      "beach": 4,
       "forest": 1,
       "space": 1,
-      "volcano": 2
+      "volcano": 2,
+      "mountains": 1
     },
     "special": {
       "none": 15,
