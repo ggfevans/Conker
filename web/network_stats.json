@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-29T00:40:49.216515+00:00",
+  "last_updated": "2026-05-30T00:37:52.291969+00:00",
   "total_monkeys": 33,
   "active_today": 10,
   "generations": {
     "1": 13,
     "2": 20
   },
-  "avg_rarity": 26.67,
+  "avg_rarity": 27.22,
   "max_rarity": 50.0,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -40,9 +40,9 @@
       "curious": 4,
       "mischievous": 4,
       "happy": 6,
-      "cool": 2,
+      "cool": 1,
       "excited": 4,
-      "laughing": 1,
+      "laughing": 2,
       "legendary": 1,
       "cosmic": 1,
       "neutral": 4,
@@ -52,7 +52,7 @@
     },
     "accessory": {
       "diamond_chain": 1,
-      "jetpack": 4,
+      "jetpack": 3,
       "crown": 1,
       "monocle": 3,
       "halo": 1,
@@ -61,7 +61,7 @@
       "headphones": 4,
       "bandana": 6,
       "simple_hat": 2,
-      "wings": 1,
+      "wings": 2,
       "none": 4,
       "laser_eyes": 2
     },
@@ -71,13 +71,13 @@
       "swirls": 4,
       "diamonds": 7,
       "cosmic_dust": 2,
-      "flames": 1,
+      "flames": 2,
       "nebula": 1,
       "gradient": 2,
       "stripes": 4,
-      "stars": 3,
+      "stars": 2,
       "void": 1,
-      "fractals": 1
+      "quantum": 1
     },
     "background": {
       "blue_sky": 6,
@@ -93,13 +93,13 @@
     },
     "special": {
       "none": 15,
-      "shadow": 6,
+      "shadow": 5,
       "glow": 3,
       "godlike": 1,
-      "aura": 2,
+      "aura": 3,
+      "sparkles": 3,
       "energy": 2,
-      "sparkles": 2,
-      "particles": 2
+      "particles": 1
     }
   }
 }
