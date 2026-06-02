@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-01T00:41:09.816256+00:00",
+  "last_updated": "2026-06-02T00:43:34.253521+00:00",
   "total_monkeys": 33,
   "active_today": 10,
   "generations": {
     "1": 13,
     "2": 20
   },
-  "avg_rarity": 27.22,
+  "avg_rarity": 27.32,
   "max_rarity": 50.0,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -21,20 +21,22 @@
   },
   "trait_distribution": {
     "body_color": {
-      "holographic": 3,
+      "galaxy": 1,
       "purple": 3,
-      "gray": 6,
+      "gray": 5,
       "copper": 2,
       "tan": 5,
-      "golden": 2,
-      "beige": 2,
+      "golden": 1,
+      "beige": 3,
       "bronze": 3,
       "prismatic": 1,
       "genesis_gold": 1,
       "green": 1,
       "silver": 1,
+      "pink": 1,
       "brown": 2,
-      "rainbow": 1
+      "rainbow": 1,
+      "holographic": 2
     },
     "face_expression": {
       "curious": 4,
@@ -58,12 +60,13 @@
       "halo": 1,
       "sunglasses": 3,
       "bow": 1,
-      "headphones": 5,
-      "bandana": 6,
+      "headphones": 4,
+      "bandana": 7,
       "simple_hat": 2,
-      "wings": 2,
+      "wings": 1,
       "none": 4,
-      "laser_eyes": 2
+      "laser_eyes": 2,
+      "golden_crown": 1
     },
     "pattern": {
       "spots": 4,
