@@ -1,8 +1,8 @@
 {
   "generation": 2,
   "parent_id": "fbb13284c977d75b",
-  "dna_hash": "1f908279ed19bb71",
-  "mutation_count": 102,
+  "dna_hash": "80b7744ea7b62e59",
+  "mutation_count": 103,
   "birth_timestamp": 300514,
   "traits": {
     "body_color": {
@@ -16,9 +16,9 @@
       "gene_sequence": "1f285d35"
     },
     "accessory": {
-      "value": "crown",
+      "value": "monocle",
       "rarity": "uncommon",
-      "gene_sequence": "fa89ebac"
+      "gene_sequence": "4b7e2599"
     },
     "pattern": {
       "value": "nebula",
