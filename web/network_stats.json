@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-14T00:43:12.648712+00:00",
+  "last_updated": "2026-06-15T00:45:15.933069+00:00",
   "total_monkeys": 33,
-  "active_today": 10,
+  "active_today": 11,
   "generations": {
     "1": 13,
     "2": 20
@@ -24,16 +24,16 @@
       "gray": 5,
       "purple": 3,
       "copper": 2,
-      "tan": 4,
+      "tan": 5,
       "golden": 1,
-      "brown": 4,
       "beige": 3,
-      "bronze": 3,
+      "bronze": 2,
       "prismatic": 1,
       "genesis_gold": 1,
       "green": 1,
-      "silver": 1,
+      "silver": 2,
       "pink": 1,
+      "brown": 3,
       "holographic": 3
     },
     "face_expression": {
