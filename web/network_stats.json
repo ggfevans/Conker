@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-15T00:45:15.933069+00:00",
+  "last_updated": "2026-06-16T00:50:13.764680+00:00",
   "total_monkeys": 33,
-  "active_today": 11,
+  "active_today": 9,
   "generations": {
     "1": 13,
     "2": 20
   },
-  "avg_rarity": 26.46,
+  "avg_rarity": 26.52,
   "max_rarity": 50.0,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -43,11 +43,12 @@
       "cool": 1,
       "excited": 4,
       "laughing": 2,
-      "sleepy": 4,
+      "sleepy": 3,
       "legendary": 2,
       "cosmic": 1,
       "neutral": 5,
       "enlightened": 1,
+      "wise": 1,
       "surprised": 2
     },
     "accessory": {
