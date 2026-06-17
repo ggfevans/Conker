@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-06-16T00:50:13.764680+00:00",
+  "last_updated": "2026-06-17T00:44:40.268256+00:00",
   "total_monkeys": 33,
-  "active_today": 9,
+  "active_today": 11,
   "generations": {
     "1": 13,
     "2": 20
   },
-  "avg_rarity": 26.52,
+  "avg_rarity": 26.62,
   "max_rarity": 50.0,
   "min_rarity": 10.0,
   "rarest_trait": {
-    "trait": "special",
-    "value": "particles",
+    "trait": "face_expression",
+    "value": "wise",
     "count": 1
   },
   "most_common_trait": {
@@ -24,17 +24,18 @@
       "gray": 5,
       "purple": 3,
       "copper": 2,
-      "tan": 5,
-      "golden": 1,
-      "beige": 3,
-      "bronze": 2,
+      "tan": 4,
+      "golden": 2,
+      "bronze": 3,
+      "beige": 2,
       "prismatic": 1,
       "genesis_gold": 1,
       "green": 1,
       "silver": 2,
       "pink": 1,
       "brown": 3,
-      "holographic": 3
+      "rainbow": 1,
+      "holographic": 2
     },
     "face_expression": {
       "curious": 3,
@@ -57,8 +58,8 @@
       "crown": 1,
       "monocle": 3,
       "sunglasses": 3,
-      "bow": 1,
-      "bandana": 5,
+      "bow": 2,
+      "bandana": 4,
       "simple_hat": 2,
       "wings": 2,
       "none": 5,
@@ -66,30 +67,32 @@
       "headphones": 3
     },
     "pattern": {
-      "spots": 4,
+      "spots": 5,
       "solid": 4,
       "swirls": 4,
       "diamonds": 6,
       "cosmic_dust": 1,
-      "flames": 2,
+      "flames": 1,
       "nebula": 2,
       "hearts": 1,
-      "gradient": 3,
+      "gradient": 2,
       "stripes": 3,
       "stars": 2,
-      "quantum": 1
+      "quantum": 1,
+      "fractals": 1
     },
     "background": {
-      "green_grass": 7,
+      "sunset": 5,
       "blue_sky": 3,
       "white": 7,
+      "green_grass": 6,
       "mountains": 3,
-      "volcano": 3,
+      "aurora": 1,
       "space": 1,
-      "sunset": 4,
       "beach": 3,
       "forest": 1,
-      "underwater": 1
+      "underwater": 1,
+      "volcano": 2
     },
     "special": {
       "none": 16,
@@ -98,8 +101,8 @@
       "godlike": 1,
       "sparkles": 2,
       "energy": 2,
-      "aura": 2,
-      "particles": 1
+      "aura": 1,
+      "particles": 2
     }
   }
 }
