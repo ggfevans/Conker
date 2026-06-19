@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-18T00:45:40.648725+00:00",
+  "last_updated": "2026-06-19T00:49:43.624472+00:00",
   "total_monkeys": 33,
-  "active_today": 10,
+  "active_today": 9,
   "generations": {
     "1": 13,
     "2": 20
   },
-  "avg_rarity": 26.67,
+  "avg_rarity": 26.97,
   "max_rarity": 50.0,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -17,7 +17,7 @@
   "most_common_trait": {
     "trait": "special",
     "value": "none",
-    "count": 16
+    "count": 15
   },
   "trait_distribution": {
     "body_color": {
@@ -87,16 +87,16 @@
       "green_grass": 6,
       "mountains": 3,
       "aurora": 1,
-      "space": 1,
+      "heaven": 1,
       "beach": 3,
       "forest": 1,
       "underwater": 1,
       "volcano": 2
     },
     "special": {
-      "none": 16,
+      "none": 15,
       "shadow": 5,
-      "glow": 5,
+      "glow": 6,
       "godlike": 1,
       "energy": 2,
       "sparkles": 1,
