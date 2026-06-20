@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-19T00:49:43.624472+00:00",
+  "last_updated": "2026-06-20T00:40:35.498208+00:00",
   "total_monkeys": 33,
-  "active_today": 9,
+  "active_today": 10,
   "generations": {
     "1": 13,
     "2": 20
   },
-  "avg_rarity": 26.97,
+  "avg_rarity": 27.02,
   "max_rarity": 50.0,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -42,12 +42,12 @@
       "mischievous": 3,
       "happy": 5,
       "cool": 1,
-      "excited": 4,
+      "excited": 5,
       "laughing": 2,
-      "sleepy": 3,
       "legendary": 2,
       "cosmic": 1,
       "neutral": 5,
+      "sleepy": 2,
       "enlightened": 1,
       "wise": 1,
       "surprised": 2
@@ -70,11 +70,10 @@
       "spots": 5,
       "solid": 4,
       "swirls": 4,
-      "diamonds": 6,
+      "diamonds": 7,
       "cosmic_dust": 1,
       "flames": 1,
       "fractals": 3,
-      "hearts": 1,
       "gradient": 2,
       "stripes": 3,
       "stars": 2,
