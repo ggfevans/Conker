@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-02T00:39:18.266347+00:00",
+  "last_updated": "2026-07-03T02:23:54.139893+00:00",
   "total_monkeys": 31,
-  "active_today": 8,
+  "active_today": 5,
   "generations": {
     "1": 13,
     "2": 18
   },
-  "avg_rarity": 25.7,
+  "avg_rarity": 25.75,
   "max_rarity": 50.0,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -33,7 +33,7 @@
       "green": 1,
       "silver": 2,
       "brown": 1,
-      "rainbow": 1
+      "holographic": 1
     },
     "face_expression": {
       "cosmic": 2,
@@ -65,16 +65,16 @@
     },
     "pattern": {
       "spots": 4,
-      "gradient": 4,
+      "gradient": 3,
       "solid": 4,
       "swirls": 4,
       "diamonds": 4,
       "cosmic_dust": 1,
-      "flames": 1,
-      "fractals": 2,
+      "flames": 2,
+      "fractals": 1,
       "nebula": 1,
       "stripes": 3,
-      "stars": 2,
+      "stars": 3,
       "quantum": 1
     },
     "background": {
