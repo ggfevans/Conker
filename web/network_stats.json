@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-13T02:10:58.111053+00:00",
+  "last_updated": "2026-07-14T01:54:06.384561+00:00",
   "total_monkeys": 31,
-  "active_today": 8,
+  "active_today": 7,
   "generations": {
     "1": 13,
     "2": 18
   },
-  "avg_rarity": 26.24,
+  "avg_rarity": 26.51,
   "max_rarity": 50.0,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -41,8 +41,7 @@
       "happy": 5,
       "cool": 1,
       "excited": 4,
-      "zen": 1,
-      "enlightened": 3,
+      "enlightened": 4,
       "winking": 2,
       "legendary": 1,
       "cosmic": 1,
@@ -81,9 +80,9 @@
     },
     "background": {
       "white": 8,
-      "green_grass": 5,
+      "green_grass": 4,
       "sunset": 6,
-      "blue_sky": 3,
+      "blue_sky": 4,
       "city": 1,
       "heaven": 1,
       "underwater": 2,
