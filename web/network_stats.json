@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-16T02:01:22.541515+00:00",
+  "last_updated": "2026-07-17T02:04:46.756107+00:00",
   "total_monkeys": 31,
   "active_today": 7,
   "generations": {
     "1": 13,
     "2": 18
   },
-  "avg_rarity": 26.51,
+  "avg_rarity": 26.24,
   "max_rarity": 50.0,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -72,7 +72,7 @@
       "diamonds": 4,
       "cosmic_dust": 1,
       "flames": 2,
-      "quantum": 1,
+      "lightning": 1,
       "nebula": 1,
       "stripes": 3,
       "stars": 2,
