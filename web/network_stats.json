@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-17T02:04:46.756107+00:00",
+  "last_updated": "2026-07-18T01:54:07.340258+00:00",
   "total_monkeys": 31,
   "active_today": 7,
   "generations": {
     "1": 13,
     "2": 18
   },
-  "avg_rarity": 26.24,
+  "avg_rarity": 26.51,
   "max_rarity": 50.0,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -24,14 +24,13 @@
       "beige": 2,
       "tan": 6,
       "gray": 5,
-      "purple": 4,
+      "purple": 5,
       "copper": 3,
       "bronze": 3,
       "silver": 3,
       "prismatic": 1,
       "genesis_gold": 1,
       "green": 1,
-      "pink": 1,
       "brown": 1
     },
     "face_expression": {
@@ -40,13 +39,14 @@
       "curious": 2,
       "happy": 5,
       "cool": 1,
-      "excited": 4,
+      "excited": 3,
       "enlightened": 4,
       "winking": 2,
       "legendary": 1,
       "cosmic": 1,
       "neutral": 5,
-      "sleepy": 2
+      "sleepy": 2,
+      "wise": 1
     },
     "accessory": {
       "headphones": 3,
@@ -56,12 +56,12 @@
       "monocle": 3,
       "halo": 1,
       "sunglasses": 2,
-      "bow": 3,
+      "bow": 4,
       "golden_crown": 1,
       "bandana": 4,
       "simple_hat": 2,
       "wings": 1,
-      "none": 3,
+      "none": 2,
       "laser_eyes": 2
     },
     "pattern": {
@@ -85,9 +85,10 @@
       "blue_sky": 3,
       "city": 1,
       "multiverse": 1,
-      "underwater": 2,
+      "dimension_rift": 1,
       "beach": 3,
       "forest": 1,
+      "underwater": 1,
       "mountains": 1
     },
     "special": {
