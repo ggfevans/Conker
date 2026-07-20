@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-19T02:04:41.705895+00:00",
+  "last_updated": "2026-07-20T02:25:28.044914+00:00",
   "total_monkeys": 31,
   "active_today": 7,
   "generations": {
     "1": 13,
     "2": 18
   },
-  "avg_rarity": 26.61,
+  "avg_rarity": 26.56,
   "max_rarity": 50.0,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -17,7 +17,7 @@
   "most_common_trait": {
     "trait": "special",
     "value": "none",
-    "count": 16
+    "count": 17
   },
   "trait_distribution": {
     "body_color": {
@@ -34,13 +34,13 @@
       "brown": 1
     },
     "face_expression": {
-      "divine": 1,
+      "divine": 2,
       "mischievous": 3,
       "curious": 2,
       "happy": 5,
       "cool": 1,
       "excited": 3,
-      "enlightened": 4,
+      "enlightened": 3,
       "winking": 1,
       "zen": 1,
       "legendary": 1,
@@ -57,11 +57,11 @@
       "monocle": 2,
       "halo": 1,
       "sunglasses": 3,
-      "bow": 4,
+      "bow": 5,
       "golden_crown": 1,
-      "none": 3,
       "simple_hat": 2,
       "wings": 1,
+      "none": 2,
       "bandana": 3,
       "laser_eyes": 2
     },
@@ -72,8 +72,7 @@
       "swirls": 3,
       "diamonds": 4,
       "cosmic_dust": 1,
-      "flames": 2,
-      "lightning": 1,
+      "flames": 3,
       "nebula": 1,
       "stripes": 3,
       "stars": 2,
@@ -93,9 +92,9 @@
       "mountains": 1
     },
     "special": {
-      "none": 16,
+      "none": 17,
       "shadow": 5,
-      "glow": 3,
+      "glow": 2,
       "godlike": 1,
       "sparkles": 2,
       "energy": 3,
