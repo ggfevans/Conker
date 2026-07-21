@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-20T02:25:28.044914+00:00",
+  "last_updated": "2026-07-21T02:04:08.048291+00:00",
   "total_monkeys": 31,
-  "active_today": 7,
+  "active_today": 8,
   "generations": {
     "1": 13,
     "2": 18
@@ -24,14 +24,15 @@
       "beige": 2,
       "tan": 6,
       "gray": 5,
-      "purple": 5,
+      "purple": 4,
       "copper": 3,
       "bronze": 4,
       "silver": 2,
       "prismatic": 1,
       "genesis_gold": 1,
       "green": 1,
-      "brown": 1
+      "brown": 1,
+      "holographic": 1
     },
     "face_expression": {
       "divine": 2,
@@ -40,13 +41,13 @@
       "happy": 5,
       "cool": 1,
       "excited": 3,
-      "enlightened": 3,
+      "zen": 2,
       "winking": 1,
-      "zen": 1,
       "legendary": 1,
       "cosmic": 1,
       "neutral": 4,
       "sleepy": 2,
+      "enlightened": 2,
       "wise": 2
     },
     "accessory": {
@@ -93,8 +94,8 @@
     },
     "special": {
       "none": 17,
-      "shadow": 5,
-      "glow": 2,
+      "shadow": 4,
+      "glow": 3,
       "godlike": 1,
       "sparkles": 2,
       "energy": 3,
