@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-21T02:04:08.048291+00:00",
+  "last_updated": "2026-07-22T02:02:12.322803+00:00",
   "total_monkeys": 31,
-  "active_today": 8,
+  "active_today": 7,
   "generations": {
     "1": 13,
     "2": 18
   },
-  "avg_rarity": 26.56,
+  "avg_rarity": 26.4,
   "max_rarity": 50.0,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -58,11 +58,11 @@
       "monocle": 2,
       "halo": 1,
       "sunglasses": 3,
-      "bow": 5,
+      "bow": 4,
       "golden_crown": 1,
+      "none": 3,
       "simple_hat": 2,
       "wings": 1,
-      "none": 2,
       "bandana": 3,
       "laser_eyes": 2
     },
@@ -73,7 +73,8 @@
       "swirls": 3,
       "diamonds": 4,
       "cosmic_dust": 1,
-      "flames": 3,
+      "flames": 2,
+      "hearts": 1,
       "nebula": 1,
       "stripes": 3,
       "stars": 2,
