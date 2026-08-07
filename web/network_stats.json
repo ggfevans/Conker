@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06T01:58:42.492237+00:00",
+  "last_updated": "2026-08-07T02:21:42.057055+00:00",
   "total_monkeys": 31,
   "active_today": 7,
   "generations": {
@@ -11,7 +11,7 @@
   "min_rarity": 10.0,
   "rarest_trait": {
     "trait": "pattern",
-    "value": "nebula",
+    "value": "lightning",
     "count": 1
   },
   "most_common_trait": {
@@ -78,7 +78,7 @@
       "stripes": 3,
       "stars": 2,
       "void": 1,
-      "nebula": 1
+      "lightning": 1
     },
     "background": {
       "white": 8,
@@ -87,7 +87,8 @@
       "blue_sky": 3,
       "beach": 4,
       "city": 2,
-      "multiverse": 2,
+      "multiverse": 1,
+      "dimension_rift": 1,
       "forest": 1,
       "mountains": 1,
       "volcano": 1
@@ -97,8 +98,8 @@
       "shadow": 4,
       "glow": 2,
       "godlike": 1,
-      "aura": 2,
-      "energy": 3,
+      "aura": 3,
+      "energy": 2,
       "sparkles": 1
     }
   }
