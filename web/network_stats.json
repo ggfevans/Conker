@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-08-12T01:20:28.033123+00:00",
+  "last_updated": "2026-08-13T01:21:55.491952+00:00",
   "total_monkeys": 31,
   "active_today": 7,
   "generations": {
     "1": 13,
     "2": 18
   },
-  "avg_rarity": 26.18,
+  "avg_rarity": 26.34,
   "max_rarity": 53.33,
   "min_rarity": 10.0,
   "rarest_trait": {
-    "trait": "pattern",
-    "value": "lightning",
+    "trait": "background",
+    "value": "city",
     "count": 1
   },
   "most_common_trait": {
@@ -33,7 +33,7 @@
       "silver": 2,
       "rainbow": 1,
       "brown": 1,
-      "galaxy": 1
+      "crystal": 1
     },
     "face_expression": {
       "divine": 2,
@@ -58,11 +58,11 @@
       "monocle": 2,
       "halo": 1,
       "sunglasses": 2,
-      "bow": 2,
+      "bow": 3,
       "laser_eyes": 3,
       "simple_hat": 4,
       "wings": 1,
-      "none": 4,
+      "none": 3,
       "bandana": 3
     },
     "pattern": {
@@ -76,7 +76,7 @@
       "stripes": 3,
       "stars": 2,
       "void": 1,
-      "lightning": 1
+      "fractals": 1
     },
     "background": {
       "white": 8,
@@ -84,20 +84,20 @@
       "sunset": 5,
       "blue_sky": 3,
       "beach": 4,
-      "city": 2,
+      "mountains": 2,
       "black_hole": 1,
       "dimension_rift": 1,
       "forest": 1,
-      "mountains": 1,
-      "volcano": 1
+      "volcano": 1,
+      "city": 1
     },
     "special": {
       "none": 17,
       "shadow": 4,
-      "glow": 3,
+      "glow": 2,
       "godlike": 1,
       "aura": 3,
-      "energy": 2,
+      "energy": 3,
       "sparkles": 1
     }
   }
