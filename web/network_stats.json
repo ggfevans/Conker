@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-08-14T01:21:43.822508+00:00",
+  "last_updated": "2026-08-15T00:52:39.192062+00:00",
   "total_monkeys": 31,
   "active_today": 7,
   "generations": {
     "1": 13,
     "2": 18
   },
-  "avg_rarity": 26.45,
-  "max_rarity": 53.33,
+  "avg_rarity": 26.72,
+  "max_rarity": 61.67,
   "min_rarity": 10.0,
   "rarest_trait": {
     "trait": "background",
@@ -46,9 +46,9 @@
       "winking": 2,
       "laughing": 1,
       "legendary": 1,
-      "cosmic": 1,
+      "cosmic": 2,
       "neutral": 4,
-      "enlightened": 2
+      "enlightened": 1
     },
     "accessory": {
       "headphones": 3,
@@ -88,7 +88,7 @@
       "black_hole": 1,
       "dimension_rift": 1,
       "mountains": 1,
-      "volcano": 1,
+      "multiverse": 1,
       "city": 1
     },
     "special": {
