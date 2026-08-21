@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T00:52:42.528981+00:00",
+  "last_updated": "2026-08-21T00:56:09.428746+00:00",
   "total_monkeys": 31,
   "active_today": 7,
   "generations": {
@@ -42,8 +42,8 @@
       "happy": 6,
       "cool": 1,
       "excited": 4,
-      "winking": 2,
-      "laughing": 1,
+      "winking": 1,
+      "laughing": 2,
       "legendary": 2,
       "cosmic": 2,
       "neutral": 4,
