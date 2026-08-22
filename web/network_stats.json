@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-21T00:56:09.428746+00:00",
+  "last_updated": "2026-08-22T00:52:46.998530+00:00",
   "total_monkeys": 31,
-  "active_today": 7,
+  "active_today": 8,
   "generations": {
-    "1": 13,
-    "2": 18
+    "1": 12,
+    "2": 19
   },
-  "avg_rarity": 26.94,
+  "avg_rarity": 26.88,
   "max_rarity": 61.67,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -21,8 +21,8 @@
   },
   "trait_distribution": {
     "body_color": {
-      "beige": 3,
-      "tan": 5,
+      "beige": 4,
+      "tan": 4,
       "gray": 5,
       "purple": 4,
       "copper": 4,
@@ -37,11 +37,11 @@
     },
     "face_expression": {
       "divine": 1,
+      "happy": 7,
       "mischievous": 3,
       "curious": 2,
-      "happy": 6,
       "cool": 1,
-      "excited": 4,
+      "excited": 3,
       "winking": 1,
       "laughing": 2,
       "legendary": 2,
@@ -51,7 +51,7 @@
       "enlightened": 1
     },
     "accessory": {
-      "headphones": 4,
+      "headphones": 5,
       "crown": 2,
       "horns": 1,
       "jetpack": 3,
@@ -59,16 +59,17 @@
       "halo": 1,
       "sunglasses": 2,
       "bow": 4,
-      "laser_eyes": 3,
       "simple_hat": 3,
       "wings": 1,
       "none": 2,
-      "bandana": 3
+      "bandana": 3,
+      "laser_eyes": 2
     },
     "pattern": {
       "spots": 6,
+      "fractals": 2,
       "gradient": 3,
-      "solid": 5,
+      "solid": 4,
       "swirls": 4,
       "diamonds": 3,
       "cosmic_dust": 1,
@@ -76,11 +77,10 @@
       "hearts": 1,
       "stripes": 3,
       "stars": 2,
-      "void": 1,
-      "fractals": 1
+      "void": 1
     },
     "background": {
-      "white": 8,
+      "white": 9,
       "green_grass": 4,
       "sunset": 5,
       "blue_sky": 3,
@@ -88,14 +88,14 @@
       "forest": 2,
       "black_hole": 1,
       "dimension_rift": 1,
-      "beach": 4,
+      "beach": 3,
       "multiverse": 1,
       "city": 1
     },
     "special": {
       "none": 17,
-      "shadow": 4,
-      "glow": 2,
+      "glow": 3,
+      "shadow": 3,
       "godlike": 1,
       "aura": 3,
       "energy": 3,
