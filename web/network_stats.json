@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-08-22T00:52:46.998530+00:00",
+  "last_updated": "2026-08-23T00:56:18.473385+00:00",
   "total_monkeys": 31,
   "active_today": 8,
   "generations": {
     "1": 12,
     "2": 19
   },
-  "avg_rarity": 26.88,
+  "avg_rarity": 27.15,
   "max_rarity": 61.67,
   "min_rarity": 10.0,
   "rarest_trait": {
-    "trait": "background",
-    "value": "city",
+    "trait": "body_color",
+    "value": "crystal",
     "count": 1
   },
   "most_common_trait": {
@@ -21,9 +21,9 @@
   },
   "trait_distribution": {
     "body_color": {
-      "beige": 4,
+      "beige": 3,
       "tan": 4,
-      "gray": 5,
+      "gray": 6,
       "purple": 4,
       "copper": 4,
       "bronze": 3,
@@ -36,19 +36,18 @@
       "crystal": 1
     },
     "face_expression": {
-      "divine": 1,
+      "divine": 2,
       "happy": 7,
       "mischievous": 3,
       "curious": 2,
       "cool": 1,
       "excited": 3,
-      "winking": 1,
       "laughing": 2,
-      "legendary": 2,
+      "legendary": 1,
       "cosmic": 2,
       "neutral": 4,
       "sleepy": 2,
-      "enlightened": 1
+      "enlightened": 2
     },
     "accessory": {
       "headphones": 5,
@@ -84,13 +83,12 @@
       "green_grass": 4,
       "sunset": 5,
       "blue_sky": 3,
-      "mountains": 1,
+      "city": 2,
       "forest": 2,
       "black_hole": 1,
       "dimension_rift": 1,
       "beach": 3,
-      "multiverse": 1,
-      "city": 1
+      "multiverse": 1
     },
     "special": {
       "none": 17,
