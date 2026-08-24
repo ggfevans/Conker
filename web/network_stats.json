@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-23T00:56:18.473385+00:00",
+  "last_updated": "2026-08-24T00:54:23.329543+00:00",
   "total_monkeys": 31,
   "active_today": 8,
   "generations": {
     "1": 12,
     "2": 19
   },
-  "avg_rarity": 27.15,
+  "avg_rarity": 26.99,
   "max_rarity": 61.67,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -66,7 +66,7 @@
     },
     "pattern": {
       "spots": 6,
-      "fractals": 2,
+      "fractals": 1,
       "gradient": 3,
       "solid": 4,
       "swirls": 4,
@@ -75,7 +75,7 @@
       "flames": 1,
       "hearts": 1,
       "stripes": 3,
-      "stars": 2,
+      "stars": 3,
       "void": 1
     },
     "background": {
