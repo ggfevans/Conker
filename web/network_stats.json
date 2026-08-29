@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-28T08:29:28.987538+00:00",
+  "last_updated": "2026-08-29T05:09:28.235550+00:00",
   "total_monkeys": 31,
-  "active_today": 6,
+  "active_today": 7,
   "generations": {
     "1": 12,
     "2": 19
@@ -22,8 +22,8 @@
   "trait_distribution": {
     "body_color": {
       "beige": 3,
-      "tan": 4,
-      "gray": 6,
+      "tan": 5,
+      "gray": 5,
       "purple": 4,
       "copper": 4,
       "bronze": 3,
@@ -40,8 +40,8 @@
       "happy": 7,
       "mischievous": 3,
       "curious": 2,
-      "cool": 1,
-      "excited": 3,
+      "cool": 2,
+      "excited": 2,
       "laughing": 1,
       "winking": 1,
       "legendary": 1,
@@ -58,10 +58,10 @@
       "monocle": 2,
       "halo": 1,
       "sunglasses": 2,
-      "bow": 4,
+      "bow": 3,
       "simple_hat": 3,
       "wings": 1,
-      "none": 2,
+      "none": 3,
       "bandana": 3,
       "laser_eyes": 2
     },
@@ -94,8 +94,8 @@
       "glow": 3,
       "shadow": 3,
       "godlike": 1,
-      "aura": 4,
-      "energy": 2,
+      "aura": 3,
+      "energy": 3,
       "sparkles": 1
     }
   }
