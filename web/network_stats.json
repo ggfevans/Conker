@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T03:00:03.876125+00:00",
+  "last_updated": "2026-08-31T02:54:28.312187+00:00",
   "total_monkeys": 31,
   "active_today": 7,
   "generations": {
@@ -31,7 +31,7 @@
       "genesis_gold": 1,
       "green": 1,
       "silver": 1,
-      "rainbow": 1,
+      "galaxy": 1,
       "brown": 1,
       "crystal": 1
     },
@@ -66,7 +66,7 @@
       "laser_eyes": 2
     },
     "pattern": {
-      "spots": 6,
+      "spots": 5,
       "swirls": 5,
       "gradient": 3,
       "solid": 3,
@@ -74,8 +74,8 @@
       "cosmic_dust": 1,
       "flames": 1,
       "hearts": 1,
+      "stripes": 4,
       "stars": 4,
-      "stripes": 3,
       "void": 1
     },
     "background": {
