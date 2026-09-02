@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-01T03:02:32.300951+00:00",
+  "last_updated": "2026-09-02T02:23:02.293508+00:00",
   "total_monkeys": 31,
   "active_today": 7,
   "generations": {
     "1": 12,
     "2": 19
   },
-  "avg_rarity": 26.67,
+  "avg_rarity": 26.94,
   "max_rarity": 53.33,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -25,12 +25,12 @@
       "tan": 5,
       "gray": 5,
       "purple": 4,
-      "copper": 4,
+      "copper": 3,
+      "silver": 2,
       "bronze": 3,
       "prismatic": 1,
       "genesis_gold": 1,
       "green": 1,
-      "silver": 1,
       "galaxy": 1,
       "brown": 1,
       "crystal": 1
@@ -94,7 +94,8 @@
       "shadow": 3,
       "glow": 2,
       "godlike": 1,
-      "aura": 3,
+      "transcendent": 1,
+      "aura": 2,
       "energy": 3,
       "sparkles": 1
     }
