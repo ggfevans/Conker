@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-03T02:30:02.558552+00:00",
+  "last_updated": "2026-09-04T02:25:49.032734+00:00",
   "total_monkeys": 31,
   "active_today": 7,
   "generations": {
     "1": 12,
     "2": 19
   },
-  "avg_rarity": 26.99,
+  "avg_rarity": 27.31,
   "max_rarity": 53.33,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -37,7 +37,7 @@
       "crystal": 1
     },
     "face_expression": {
-      "divine": 3,
+      "divine": 2,
       "happy": 7,
       "mischievous": 4,
       "curious": 2,
@@ -48,7 +48,7 @@
       "cosmic": 1,
       "neutral": 4,
       "sleepy": 2,
-      "enlightened": 2
+      "enlightened": 3
     },
     "accessory": {
       "headphones": 5,
@@ -57,9 +57,9 @@
       "jetpack": 3,
       "monocle": 2,
       "halo": 1,
-      "sunglasses": 2,
+      "sunglasses": 3,
       "bow": 3,
-      "simple_hat": 3,
+      "simple_hat": 2,
       "wings": 1,
       "none": 3,
       "bandana": 3,
@@ -67,7 +67,7 @@
     },
     "pattern": {
       "spots": 5,
-      "swirls": 5,
+      "swirls": 6,
       "gradient": 3,
       "solid": 3,
       "diamonds": 3,
@@ -75,7 +75,7 @@
       "flames": 1,
       "hearts": 1,
       "stripes": 4,
-      "stars": 4,
+      "stars": 3,
       "void": 1
     },
     "background": {
@@ -86,7 +86,8 @@
       "blue_sky": 3,
       "volcano": 2,
       "space": 1,
-      "black_hole": 2,
+      "black_hole": 1,
+      "heaven": 1,
       "forest": 1,
       "city": 1
     },
@@ -95,10 +96,10 @@
       "shadow": 3,
       "glow": 2,
       "godlike": 1,
-      "transcendent": 1,
-      "aura": 2,
+      "transcendent": 2,
       "energy": 3,
-      "sparkles": 1
+      "sparkles": 1,
+      "aura": 1
     }
   }
 }
