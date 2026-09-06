@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05T02:26:56.108255+00:00",
+  "last_updated": "2026-09-06T02:23:07.672232+00:00",
   "total_monkeys": 31,
   "active_today": 7,
   "generations": {
@@ -50,13 +50,13 @@
       "enlightened": 3
     },
     "accessory": {
-      "headphones": 5,
+      "headphones": 4,
       "crown": 2,
       "horns": 1,
       "jetpack": 3,
       "monocle": 2,
       "halo": 1,
-      "sunglasses": 3,
+      "sunglasses": 4,
       "bow": 3,
       "simple_hat": 2,
       "wings": 1,
