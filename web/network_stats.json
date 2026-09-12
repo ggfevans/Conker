@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-09-11T02:29:09.787616+00:00",
+  "last_updated": "2026-09-12T02:37:28.780682+00:00",
   "total_monkeys": 31,
   "active_today": 7,
   "generations": {
     "1": 12,
     "2": 19
   },
-  "avg_rarity": 27.37,
-  "max_rarity": 53.33,
+  "avg_rarity": 27.58,
+  "max_rarity": 58.33,
   "min_rarity": 10.0,
   "rarest_trait": {
-    "trait": "body_color",
-    "value": "brown",
+    "trait": "background",
+    "value": "aurora",
     "count": 1
   },
   "most_common_trait": {
@@ -21,31 +21,29 @@
   },
   "trait_distribution": {
     "body_color": {
-      "beige": 3,
+      "beige": 2,
       "gray": 6,
       "tan": 4,
       "purple": 3,
       "copper": 2,
+      "brown": 2,
       "silver": 3,
-      "crystal": 2,
+      "crystal": 3,
       "bronze": 3,
       "prismatic": 1,
       "genesis_gold": 1,
-      "green": 1,
-      "rainbow": 1,
-      "brown": 1
+      "green": 1
     },
     "face_expression": {
-      "divine": 2,
+      "divine": 1,
       "happy": 7,
       "mischievous": 4,
       "curious": 2,
       "cool": 1,
       "excited": 2,
       "sleepy": 3,
-      "laughing": 1,
-      "legendary": 1,
-      "cosmic": 1,
+      "legendary": 2,
+      "cosmic": 2,
       "neutral": 4,
       "enlightened": 3
     },
@@ -65,7 +63,7 @@
       "laser_eyes": 2
     },
     "pattern": {
-      "spots": 4,
+      "spots": 5,
       "gradient": 4,
       "solid": 4,
       "swirls": 5,
@@ -73,7 +71,7 @@
       "cosmic_dust": 1,
       "flames": 1,
       "stripes": 4,
-      "stars": 4,
+      "stars": 3,
       "void": 1
     },
     "background": {
@@ -94,8 +92,8 @@
       "none": 18,
       "shadow": 3,
       "glow": 2,
-      "godlike": 1,
-      "transcendent": 2,
+      "godlike": 2,
+      "transcendent": 1,
       "energy": 2,
       "sparkles": 1,
       "aura": 2
