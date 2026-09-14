@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-09-13T02:35:59.960807+00:00",
+  "last_updated": "2026-09-14T02:52:14.822469+00:00",
   "total_monkeys": 31,
   "active_today": 7,
   "generations": {
     "1": 12,
     "2": 19
   },
-  "avg_rarity": 27.58,
+  "avg_rarity": 27.74,
   "max_rarity": 58.33,
   "min_rarity": 10.0,
   "rarest_trait": {
     "trait": "background",
-    "value": "aurora",
+    "value": "underwater",
     "count": 1
   },
   "most_common_trait": {
@@ -50,16 +50,16 @@
     },
     "accessory": {
       "headphones": 6,
-      "crown": 2,
+      "crown": 3,
       "horns": 1,
       "jetpack": 3,
       "monocle": 2,
       "halo": 1,
-      "sunglasses": 3,
-      "bow": 2,
+      "sunglasses": 2,
+      "bow": 1,
+      "none": 4,
       "simple_hat": 2,
       "wings": 1,
-      "none": 3,
       "bandana": 3,
       "laser_eyes": 2
     },
@@ -67,10 +67,10 @@
       "spots": 5,
       "gradient": 4,
       "solid": 4,
-      "swirls": 4,
+      "swirls": 3,
       "diamonds": 3,
       "cosmic_dust": 1,
-      "flames": 1,
+      "flames": 2,
       "stars": 4,
       "stripes": 4,
       "void": 1
@@ -87,7 +87,7 @@
       "multiverse": 1,
       "beach": 2,
       "forest": 1,
-      "aurora": 1
+      "underwater": 1
     },
     "special": {
       "none": 18,
