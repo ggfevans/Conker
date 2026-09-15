@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T02:52:14.822469+00:00",
+  "last_updated": "2026-09-15T02:54:42.870237+00:00",
   "total_monkeys": 31,
   "active_today": 7,
   "generations": {
@@ -43,10 +43,10 @@
       "cool": 1,
       "excited": 2,
       "sleepy": 3,
-      "legendary": 2,
+      "enlightened": 4,
       "cosmic": 2,
-      "neutral": 4,
-      "enlightened": 3
+      "legendary": 1,
+      "neutral": 4
     },
     "accessory": {
       "headphones": 6,
@@ -57,8 +57,8 @@
       "halo": 1,
       "sunglasses": 2,
       "bow": 1,
-      "none": 4,
-      "simple_hat": 2,
+      "none": 3,
+      "simple_hat": 3,
       "wings": 1,
       "bandana": 3,
       "laser_eyes": 2
@@ -93,8 +93,7 @@
       "none": 18,
       "shadow": 3,
       "glow": 2,
-      "godlike": 2,
-      "transcendent": 1,
+      "godlike": 3,
       "energy": 2,
       "sparkles": 1,
       "aura": 2
