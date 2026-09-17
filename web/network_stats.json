@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-09-16T02:49:56.960982+00:00",
+  "last_updated": "2026-09-17T02:53:51.789321+00:00",
   "total_monkeys": 31,
   "active_today": 7,
   "generations": {
     "1": 12,
     "2": 19
   },
-  "avg_rarity": 27.74,
+  "avg_rarity": 27.8,
   "max_rarity": 58.33,
   "min_rarity": 10.0,
   "rarest_trait": {
     "trait": "background",
-    "value": "underwater",
+    "value": "mountains",
     "count": 1
   },
   "most_common_trait": {
@@ -53,9 +53,9 @@
       "crown": 2,
       "horns": 1,
       "jetpack": 3,
-      "monocle": 2,
+      "monocle": 3,
       "halo": 1,
-      "sunglasses": 3,
+      "sunglasses": 2,
       "bow": 1,
       "none": 3,
       "simple_hat": 3,
@@ -70,24 +70,25 @@
       "swirls": 3,
       "diamonds": 3,
       "cosmic_dust": 1,
-      "flames": 2,
+      "flames": 1,
+      "nebula": 1,
       "stars": 4,
       "stripes": 4,
       "void": 1
     },
     "background": {
       "white": 8,
-      "mountains": 1,
+      "city": 3,
       "green_grass": 4,
       "sunset": 5,
-      "blue_sky": 4,
-      "city": 2,
+      "blue_sky": 3,
       "volcano": 1,
       "black_hole": 1,
       "multiverse": 1,
       "beach": 2,
       "forest": 1,
-      "underwater": 1
+      "underwater": 1,
+      "mountains": 1
     },
     "special": {
       "none": 18,
