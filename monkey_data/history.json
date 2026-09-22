@@ -5150,6 +5150,23 @@
       },
       "story": "Your monkey evolved! Changes: accessory: headphones \u2192 monocle",
       "svg_filename": "2026-09-21_03-20_monkey.svg"
+    },
+    {
+      "timestamp": "2026-09-22T03:19:30.112312",
+      "dna_hash": "fe5f2f373f69125a",
+      "generation": 2,
+      "mutation_count": 157,
+      "rarity_score": 63.33333333333333,
+      "traits": {
+        "body_color": "crystal",
+        "face_expression": "legendary",
+        "accessory": "monocle",
+        "pattern": "flames",
+        "background": "heaven",
+        "special": "none"
+      },
+      "story": "Your monkey evolved! Changes: pattern: swirls \u2192 flames",
+      "svg_filename": "2026-09-22_03-19_monkey.svg"
     }
   ]
 }
