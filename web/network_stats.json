@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25T02:57:03.141575+00:00",
+  "last_updated": "2026-09-26T03:00:05.010998+00:00",
   "total_monkeys": 31,
   "active_today": 7,
   "generations": {
@@ -41,10 +41,10 @@
       "divine": 1,
       "curious": 3,
       "mischievous": 3,
-      "happy": 6,
+      "happy": 5,
       "cool": 1,
       "excited": 3,
-      "sleepy": 3,
+      "sleepy": 4,
       "enlightened": 4,
       "legendary": 2,
       "cosmic": 1,
@@ -66,14 +66,14 @@
       "laser_eyes": 2
     },
     "pattern": {
-      "spots": 5,
-      "gradient": 4,
+      "spots": 4,
+      "gradient": 5,
       "solid": 3,
       "swirls": 3,
       "diamonds": 3,
       "cosmic_dust": 1,
       "flames": 1,
-      "nebula": 1,
+      "lightning": 1,
       "stars": 3,
       "stripes": 5,
       "hearts": 1,
