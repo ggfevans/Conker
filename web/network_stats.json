@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-05T03:31:21.729808+00:00",
+  "last_updated": "2026-10-06T04:18:47.090919+00:00",
   "total_monkeys": 31,
-  "active_today": 7,
+  "active_today": 6,
   "generations": {
     "1": 12,
     "2": 19
@@ -66,16 +66,15 @@
     },
     "pattern": {
       "spots": 5,
-      "stripes": 5,
+      "stripes": 4,
       "gradient": 4,
-      "solid": 3,
-      "swirls": 3,
+      "solid": 4,
+      "swirls": 4,
       "diamonds": 3,
       "cosmic_dust": 1,
       "flames": 1,
       "lightning": 1,
       "stars": 3,
-      "hearts": 1,
       "void": 1
     },
     "background": {
