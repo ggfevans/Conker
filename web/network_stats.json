@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-09T04:04:31.525321+00:00",
+  "last_updated": "2026-10-10T03:49:36.600303+00:00",
   "total_monkeys": 31,
-  "active_today": 8,
+  "active_today": 7,
   "generations": {
     "1": 12,
     "2": 19
@@ -10,8 +10,8 @@
   "max_rarity": 55.0,
   "min_rarity": 10.0,
   "rarest_trait": {
-    "trait": "body_color",
-    "value": "crystal",
+    "trait": "background",
+    "value": "underwater",
     "count": 1
   },
   "most_common_trait": {
@@ -50,9 +50,9 @@
       "enlightened": 3
     },
     "accessory": {
-      "headphones": 6,
+      "headphones": 5,
       "jetpack": 4,
-      "crown": 3,
+      "crown": 4,
       "horns": 1,
       "monocle": 4,
       "halo": 1,
@@ -78,16 +78,18 @@
     },
     "background": {
       "white": 8,
-      "black_hole": 2,
+      "dimension_rift": 1,
       "green_grass": 4,
       "sunset": 5,
       "blue_sky": 3,
       "city": 2,
+      "black_hole": 1,
       "heaven": 1,
       "space": 1,
       "beach": 2,
       "forest": 1,
-      "underwater": 2
+      "volcano": 1,
+      "underwater": 1
     },
     "special": {
       "none": 17,
