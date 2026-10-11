@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-10T03:49:36.600303+00:00",
+  "last_updated": "2026-10-11T03:23:01.107923+00:00",
   "total_monkeys": 31,
   "active_today": 7,
   "generations": {
     "1": 12,
     "2": 19
   },
-  "avg_rarity": 28.87,
+  "avg_rarity": 28.6,
   "max_rarity": 55.0,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -36,14 +36,14 @@
       "crystal": 1
     },
     "face_expression": {
-      "divine": 2,
+      "divine": 1,
       "sleepy": 5,
       "mischievous": 3,
       "curious": 2,
       "happy": 5,
       "cool": 1,
       "excited": 2,
-      "winking": 1,
+      "winking": 2,
       "legendary": 2,
       "cosmic": 1,
       "neutral": 4,
@@ -82,12 +82,13 @@
       "green_grass": 4,
       "sunset": 5,
       "blue_sky": 3,
-      "city": 2,
+      "mountains": 1,
       "black_hole": 1,
       "heaven": 1,
       "space": 1,
       "beach": 2,
       "forest": 1,
+      "city": 1,
       "volcano": 1,
       "underwater": 1
     },
