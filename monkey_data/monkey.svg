@@ -49,7 +49,7 @@
     </linearGradient>
     <clipPath id="head-clip"><ellipse cx="200" cy="200" rx="110" ry="115"/></clipPath>
 </defs>
-<rect width="400" height="400" fill="url(#heaven-gradient)"/>
+<rect width="400" height="400" fill="url(#multiverse-gradient)"/>
 
 <ellipse cx="115" cy="140" rx="45" ry="50" fill="#32CD32" filter="url(#shadow)"/>
 <ellipse cx="115" cy="140" rx="30" ry="35" fill="#FFB6C1"/>
