@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-12T03:46:21.386183+00:00",
+  "last_updated": "2026-10-13T04:58:17.308286+00:00",
   "total_monkeys": 31,
-  "active_today": 7,
+  "active_today": 6,
   "generations": {
     "1": 12,
     "2": 19
@@ -33,7 +33,7 @@
       "genesis_gold": 1,
       "galaxy": 1,
       "brown": 1,
-      "crystal": 1
+      "holographic": 1
     },
     "face_expression": {
       "divine": 1,
