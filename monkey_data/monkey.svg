@@ -51,14 +51,14 @@
 </defs>
 <rect width="400" height="400" fill="url(#multiverse-gradient)"/>
 
-<ellipse cx="115" cy="140" rx="45" ry="50" fill="#32CD32" filter="url(#shadow)"/>
+<ellipse cx="115" cy="140" rx="45" ry="50" fill="#CD7F32" filter="url(#shadow)"/>
 <ellipse cx="115" cy="140" rx="30" ry="35" fill="#FFB6C1"/>
 <ellipse cx="115" cy="145" rx="18" ry="22" fill="#FF9999"/>
-<ellipse cx="285" cy="140" rx="45" ry="50" fill="#32CD32" filter="url(#shadow)"/>
+<ellipse cx="285" cy="140" rx="45" ry="50" fill="#CD7F32" filter="url(#shadow)"/>
 <ellipse cx="285" cy="140" rx="30" ry="35" fill="#FFB6C1"/>
 <ellipse cx="285" cy="145" rx="18" ry="22" fill="#FF9999"/>
-<ellipse cx="200" cy="200" rx="110" ry="115" fill="#32CD32" filter="url(#shadow)"/>
-<ellipse cx="180" cy="140" rx="50" ry="30" fill="#7CFC00" opacity="0.3"/>
+<ellipse cx="200" cy="200" rx="110" ry="115" fill="#CD7F32" filter="url(#shadow)"/>
+<ellipse cx="180" cy="140" rx="50" ry="30" fill="#DAA06D" opacity="0.3"/>
 <g clip-path="url(#head-clip)"><circle cx="200" cy="200" r="100" fill="none" stroke="#000" stroke-width="2" opacity="0.08" stroke-dasharray="15,10"/><circle cx="200" cy="200" r="75" fill="none" stroke="#000" stroke-width="2" opacity="0.08" stroke-dasharray="15,10"/><circle cx="200" cy="200" r="50" fill="none" stroke="#000" stroke-width="2" opacity="0.08" stroke-dasharray="15,10"/><circle cx="200" cy="200" r="25" fill="none" stroke="#000" stroke-width="2" opacity="0.08" stroke-dasharray="15,10"/></g>
 <ellipse cx="200" cy="235" rx="70" ry="60" fill="#FFDAB9"/>
 <ellipse cx="200" cy="250" rx="55" ry="40" fill="#DEB887" opacity="0.3"/>
