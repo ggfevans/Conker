@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18T02:33:40.704933+00:00",
+  "last_updated": "2026-10-19T02:47:27.994458+00:00",
   "total_monkeys": 31,
   "active_today": 7,
   "generations": {
@@ -45,7 +45,7 @@
       "cool": 1,
       "excited": 2,
       "surprised": 1,
-      "winking": 1,
+      "laughing": 1,
       "legendary": 2,
       "cosmic": 1,
       "neutral": 4,
@@ -57,14 +57,14 @@
       "crown": 4,
       "horns": 1,
       "monocle": 4,
-      "halo": 1,
+      "halo": 2,
       "sunglasses": 2,
       "bow": 1,
-      "laser_eyes": 3,
       "simple_hat": 2,
       "wings": 1,
       "none": 2,
-      "bandana": 2
+      "bandana": 2,
+      "laser_eyes": 2
     },
     "pattern": {
       "spots": 5,
