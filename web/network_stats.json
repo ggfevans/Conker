@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-02T03:51:56.794218+00:00",
+  "last_updated": "2026-11-03T04:54:56.603490+00:00",
   "total_monkeys": 31,
-  "active_today": 7,
+  "active_today": 6,
   "generations": {
     "1": 12,
     "2": 19
   },
-  "avg_rarity": 28.6,
+  "avg_rarity": 28.76,
   "max_rarity": 55.0,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -43,11 +43,12 @@
       "happy": 5,
       "cool": 1,
       "excited": 3,
-      "zen": 2,
+      "zen": 1,
       "legendary": 3,
       "cosmic": 1,
       "neutral": 4,
-      "enlightened": 2
+      "enlightened": 2,
+      "winking": 1
     },
     "accessory": {
       "headphones": 3,
@@ -70,10 +71,11 @@
       "solid": 5,
       "gradient": 4,
       "swirls": 4,
-      "diamonds": 4,
+      "diamonds": 3,
       "cosmic_dust": 1,
       "flames": 1,
       "hearts": 1,
+      "lightning": 1,
       "stripes": 4,
       "stars": 2,
       "void": 1
@@ -98,9 +100,8 @@
       "shadow": 4,
       "glow": 2,
       "godlike": 1,
-      "transcendent": 1,
+      "mythical": 2,
       "sparkles": 2,
-      "mythical": 1,
       "energy": 2,
       "aura": 1
     }
