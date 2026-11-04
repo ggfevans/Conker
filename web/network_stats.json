@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-03T04:54:56.603490+00:00",
+  "last_updated": "2026-11-04T04:23:42.092372+00:00",
   "total_monkeys": 31,
-  "active_today": 6,
+  "active_today": 7,
   "generations": {
     "1": 12,
     "2": 19
   },
-  "avg_rarity": 28.76,
-  "max_rarity": 55.0,
+  "avg_rarity": 28.82,
+  "max_rarity": 56.67,
   "min_rarity": 10.0,
   "rarest_trait": {
     "trait": "background",
@@ -27,7 +27,7 @@
       "gray": 5,
       "purple": 3,
       "copper": 4,
-      "blue": 1,
+      "pink": 1,
       "bronze": 3,
       "prismatic": 1,
       "genesis_gold": 1,
@@ -69,12 +69,12 @@
     "pattern": {
       "spots": 4,
       "solid": 5,
-      "gradient": 4,
+      "gradient": 3,
       "swirls": 4,
       "diamonds": 3,
       "cosmic_dust": 1,
       "flames": 1,
-      "hearts": 1,
+      "hearts": 2,
       "lightning": 1,
       "stripes": 4,
       "stars": 2,
@@ -82,12 +82,12 @@
     },
     "background": {
       "white": 8,
-      "black_hole": 1,
+      "black_hole": 2,
       "green_grass": 4,
       "sunset": 5,
       "blue_sky": 3,
       "space": 1,
-      "dimension_rift": 2,
+      "dimension_rift": 1,
       "multiverse": 1,
       "beach": 2,
       "forest": 1,
@@ -100,8 +100,9 @@
       "shadow": 4,
       "glow": 2,
       "godlike": 1,
-      "mythical": 2,
+      "mythical": 1,
       "sparkles": 2,
+      "transcendent": 1,
       "energy": 2,
       "aura": 1
     }
