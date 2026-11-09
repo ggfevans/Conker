@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-08T03:51:01.684289+00:00",
+  "last_updated": "2026-11-09T04:02:51.546407+00:00",
   "total_monkeys": 31,
   "active_today": 6,
   "generations": {
     "1": 13,
     "2": 18
   },
-  "avg_rarity": 28.66,
+  "avg_rarity": 28.39,
   "max_rarity": 56.67,
   "min_rarity": 10.0,
   "rarest_trait": {
@@ -87,8 +87,8 @@
       "blue_sky": 3,
       "space": 1,
       "heaven": 1,
-      "black_hole": 1,
       "multiverse": 1,
+      "volcano": 1,
       "beach": 2,
       "forest": 1,
       "city": 1,
