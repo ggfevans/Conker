@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-11-22T04:34:12.119813+00:00",
+  "last_updated": "2026-11-23T05:10:53.259613+00:00",
   "total_monkeys": 31,
   "active_today": 0,
   "generations": {
     "1": 13,
     "2": 18
   },
-  "avg_rarity": 28.28,
+  "avg_rarity": 28.12,
   "max_rarity": 58.33,
   "min_rarity": 10.0,
   "rarest_trait": {
     "trait": "background",
-    "value": "aurora",
+    "value": "mountains",
     "count": 1
   },
   "most_common_trait": {
@@ -38,11 +38,11 @@
     "face_expression": {
       "divine": 2,
       "happy": 7,
-      "mischievous": 3,
+      "mischievous": 4,
       "curious": 2,
       "cool": 1,
       "excited": 2,
-      "winking": 2,
+      "winking": 1,
       "legendary": 3,
       "cosmic": 1,
       "neutral": 4,
@@ -51,11 +51,11 @@
     },
     "accessory": {
       "headphones": 5,
-      "laser_eyes": 3,
+      "laser_eyes": 4,
       "crown": 2,
       "horns": 1,
       "jetpack": 3,
-      "monocle": 5,
+      "monocle": 4,
       "halo": 1,
       "sunglasses": 3,
       "bow": 1,
@@ -85,11 +85,11 @@
       "space": 1,
       "black_hole": 1,
       "multiverse": 1,
-      "volcano": 1,
+      "aurora": 1,
       "beach": 2,
       "forest": 1,
       "city": 1,
-      "aurora": 1
+      "mountains": 1
     },
     "special": {
       "none": 17,
