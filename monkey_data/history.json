@@ -6238,6 +6238,23 @@
       },
       "story": "Your monkey evolved! Changes: body_color: purple \u2192 pink",
       "svg_filename": "2026-11-24_08-24_monkey.svg"
+    },
+    {
+      "timestamp": "2026-11-25T06:59:40.511205",
+      "dna_hash": "a8ba970e48499e23",
+      "generation": 2,
+      "mutation_count": 185,
+      "rarity_score": 46.666666666666664,
+      "traits": {
+        "body_color": "pink",
+        "face_expression": "legendary",
+        "accessory": "laser_eyes",
+        "pattern": "hearts",
+        "background": "aurora",
+        "special": "none"
+      },
+      "story": "Your monkey evolved! Changes: pattern: swirls \u2192 hearts",
+      "svg_filename": "2026-11-25_06-59_monkey.svg"
     }
   ]
 }
